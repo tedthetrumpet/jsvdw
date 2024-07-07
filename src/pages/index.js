@@ -23,7 +23,7 @@ export default function Hello() {
             width: '90%', */
             color: 'white',
             position: 'absolute',
-            left: 40,
+            left: '2vw',
             top: 0,
           }}>
           <p style={{ fontSize: '5.1vw'}}>J Simon van der Walt</p>
