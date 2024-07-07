@@ -13,7 +13,7 @@ export default function Hello() {
           /* height: '60vh', */
           /* fontSize: '20px', */
         }}>
-        <img src="/img/jsimonvanderwalt.PNG" alt="Simon"></img>
+        <img src="/img/jsimonvanderwalt.png" alt="Simon"></img>
         <div
           style={{
             color: 'white',
