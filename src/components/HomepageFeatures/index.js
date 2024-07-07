@@ -19,7 +19,7 @@ const FeatureList = [
       <ul>
           <li><Link to="/catalog/">Catalog</Link> – scores, recordings, video, programme notes </li>
           <li><Link to="/blog/">Blog</Link> – news, ideas, work in progress</li>
-          <li>About more about my work as a composer, performer and teacher</li>
+          <li>About – more about me and my work</li>
       </ul>
       <h3>Elsewhere</h3>
         <ul>
