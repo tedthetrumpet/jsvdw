@@ -1,0 +1,7 @@
+.features {
+  display: flex;
+  align-items: left; /* doesn't seem to do anything */
+  padding: 1rem 0;
+  width: 100%;
+}
+
