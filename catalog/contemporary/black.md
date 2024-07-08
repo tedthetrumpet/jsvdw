@@ -1,5 +1,6 @@
 ---
 title: "The Black Rain"
+sidebar_position: 101
 date: "2012-07-16"
 tags: 
   - supercollider
