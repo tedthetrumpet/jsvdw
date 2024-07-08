@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Contemporary
 
-- [The Black Rain](black "The Black Rain") for amplified string quintet with live computer processing (score)
+- [The Black Rain](/catalog/contemporary/black "The Black Rain") for amplified string quintet with live computer processing (score)
 - [The Seventh Voyage](http://jsimonvanderwalt.com/works/voyage/ "The Seventh Voyage") for piano and laptop (video)
 - [Dr Mueller? Dr Mueller!? Oh, boy :(](http://jsimonvanderwalt.com/works/mueller/ "Dr Mueller? Dr Mueller!? Oh, boy :(") for clarinet and acoustic laptop (score, recording)
 - [Liebesglück hat tausend Zungen](http://jsimonvanderwalt.com/works/zungen/ "Liebesglück hat tausend Zungen") for soprano voice and piano (score, video)
