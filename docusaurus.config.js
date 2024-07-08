@@ -63,7 +63,7 @@ const config = {
       // Replace with your project's social card
       /* image: 'img/docusaurus-social-card.jpg', */
       colorMode: {
-        defaultMode: 'dark',
+        defaultMode: 'light',
         disableSwitch: false,
         respectPrefersColorScheme: false,
       },
@@ -81,6 +81,7 @@ const config = {
             label: 'Catalog',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/about', label: 'About', position: 'left' },
 /*           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',

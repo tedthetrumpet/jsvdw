@@ -3,3 +3,11 @@
  * and scoped locally.
  */
 
+.row {
+    display: flex;
+    color: red;
+}
+
+.column {
+    flex: 50%;
+}
