@@ -5,6 +5,7 @@ date: "2010-06-04"
  <div class="row"
 style={{
           display: 'flex',
+          paddingLeft: '1rem',
         }}>
   <div class="column"
   style={{
