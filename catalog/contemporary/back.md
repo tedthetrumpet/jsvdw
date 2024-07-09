@@ -10,7 +10,7 @@ date: "2010-07-28"
 
 ### Composer's note
 
-A study towards, or perhaps a tangent to, [The Other Other Hand](tooh.html). It is composed of four building blocks; _Ascending Material_ for the clarinets; _Sick Puppy_, a limping gesture for three flutes; _Sick Puppy Variations_; which adds a bass clarinet to the flutes; and a march. A fourth gesture _Dodgy Dog_ didn't make the cut.
+A study towards, or perhaps a tangent to, [The Other Other Hand](tooh). It is composed of four building blocks; _Ascending Material_ for the clarinets; _Sick Puppy_, a limping gesture for three flutes; _Sick Puppy Variations_; which adds a bass clarinet to the flutes; and a march. A fourth gesture _Dodgy Dog_ didn't make the cut.
 
 ### Notes
 

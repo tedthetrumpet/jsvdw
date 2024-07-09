@@ -56,6 +56,11 @@ const config = {
   ],
 
 
+  /* plugins: ['@docusaurus/react-player'], */
+
+  /* plugins: [require.resolve('react-player')], */
+
+  plugins: [require.resolve('docusaurus-lunr-search')],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */

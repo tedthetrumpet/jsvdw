@@ -2,15 +2,21 @@
 sidebar_position: 109
 title: "L'auteur n'est pas mort"
 date: "2010-07-28"
-hide_table_of_contents: false
 ---
 
+## 6/07/07 for clarinet, piano and hang
 
-### Video score
+### About
 
-\[youtube=http://www.youtube.com/watch?v=TT3s3E1-9ws&w=300\] Above is, um, a 'video score' for the hang part; I made a video of what I wanted Salil to do, and posted it online.
+A rather over-intellectual piece of which little documentation survives, beyond a 'video score' of the hang part and the three deliberately contradictory programme notes below.
 
-### 6/07/07 for clarinet, piano and hang
+Composed for the International Conference on Music Since 1900 at York in 2007; devised in collaboration with and performed by Panayiotis Demopoulos (piano), Jonathan Sage (clarinet), and Salil Sachdev (hang).
+
+Duration ~13'
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TT3s3E1-9ws?si=GhCVap8EI_NSRpxd" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+
+
 
 #### Composer's note (1)
 
@@ -32,8 +38,4 @@ The programme note given for J. Simon van der Walt's 'L'auteur n'est pas mort' i
 
 > 'L'auteur n'est par mort' offers a playful recontextualisation of competing social and historical constructions of musical space and time, outlining a critique of unquestioned assumptions surrounding the notions of 'concert' and 'composer', by proposing an ironic new reading of genre-as-marginalisation through a semiotic and syntactical treatment of C. Hubert Parry's 'The Evolution of the Art of Music', David Raksin's score for 'Laura' (1944), and the heuristic folksonomies - of Kylie Minogue.
 
-#### Notes
 
-Composed for the International Conference on Music Since 1900 at York in 2007; devised in collaboration with and performed by Panayiotis Demopoulos (piano), Jonathan Sage (clarinet), and Salil Sachdev (hang).
-
-Duration ~13'

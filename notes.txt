@@ -1,3 +1,21 @@
+<video controls>
+  <source src="/test.mp4"/>
+</video>
+
+<ReactPlayer playing controls url='/whirlies-d-ex.mp3' />
+
+<ReactPlayer url='https://www.youtube.com/watch?v=LXb3EKWsInQ' />
+
+
+
+import ReactPlayer from 'react-player'
+
+
+
+
+
+-----------
+
 \[!\[\]\(.*\)\]
 
 Matches

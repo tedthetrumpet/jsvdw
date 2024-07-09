@@ -5,14 +5,14 @@ sidebar_position: 2
 # Contemporary
 
 - [The Black Rain](/catalog/contemporary/black "The Black Rain") for amplified string quintet with live computer processing (score)
-- [The Seventh Voyage](http://jsimonvanderwalt.com/works/voyage/ "The Seventh Voyage") for piano and laptop (video)
-- [Dr Mueller? Dr Mueller!? Oh, boy :(](http://jsimonvanderwalt.com/works/mueller/ "Dr Mueller? Dr Mueller!? Oh, boy :(") for clarinet and acoustic laptop (score, recording)
-- [Liebesglück hat tausend Zungen](http://jsimonvanderwalt.com/works/zungen/ "Liebesglück hat tausend Zungen") for soprano voice and piano (score, video)
-- [The Whirlies](http://tedthetrumpet.wordpress.com/works/whirlies/) for strings and electro-junk improviser (video, audio)
-- [The Other Other Hand](http://tedthetrumpet.wordpress.com/works/tooh/) for ensemble (video)
+- [The Seventh Voyage](/catalog/contemporary/voyage/ "The Seventh Voyage") for piano and laptop (video)
+- [Dr Mueller? Dr Mueller!? Oh, boy :(](/catalog/contemporary/mueller/ "Dr Mueller? Dr Mueller!? Oh, boy :(") for clarinet and acoustic laptop (score, recording)
+- [Liebesglück hat tausend Zungen](/catalog/contemporary/zungen/ "Liebesglück hat tausend Zungen") for soprano voice and piano (score, video)
+- [The Whirlies](/catalog/contemporary/whirlies/) for strings and electro-junk improviser (video, audio)
+- [The Other Other Hand](/catalog/contemporary/tooh/) for ensemble (video)
 - [So-Called 'Natural Selection'](socalled) for strings and speaking voice
 - [In the back of my mind](back) for three flutes and clarinet choir (video)
-- [L'auteur n'est pas mort](http://tedthetrumpet.wordpress.com/works/auteur/) for clarinet, piano and hang (video-score)
+- [L'auteur n'est pas mort](auteur) for clarinet, piano and hang (video-score)
 - [String Quartet No 1 "In 4/4"](http://tedthetrumpet.wordpress.com/works/in44/) for string quartet (score)
 - [The Society for Classical and Authentic Music](http://tedthetrumpet.wordpress.com/works/scam/) for six oboes, six bassoons, two ghettoblasters and conductor (video coming one day, soon, maybe, never…)
 - [The Cave of Destiny](http://tedthetrumpet.wordpress.com/works/cave/) duet for trumpet, bass trumpet and reverb (score, recording)
