@@ -9,7 +9,7 @@ tags:
 
 ## 17/11/08 for strings and electro-junk improviser
 
-<iframe src="https://archive.org/embed/The_Whirlies" width="480" height="360" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe class="youtube-video" src="https://archive.org/embed/The_Whirlies" frameborder="0" webkitAllowFullScreen="true" mozAllowFullScreen="true" allowFullScreen></iframe>
 
 ### Composer's note
 

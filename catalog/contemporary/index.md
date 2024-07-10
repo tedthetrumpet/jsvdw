@@ -4,26 +4,26 @@ sidebar_position: 2
 
 # Contemporary
 
-- [The Black Rain](/catalog/contemporary/black "The Black Rain") for amplified string quintet with live computer processing (score)
-- [The Seventh Voyage](/catalog/contemporary/voyage/ "The Seventh Voyage") for piano and laptop (video)
-- [Dr Mueller? Dr Mueller!? Oh, boy :(](/catalog/contemporary/mueller/ "Dr Mueller? Dr Mueller!? Oh, boy :(") for clarinet and acoustic laptop (score, recording)
-- [Liebesglück hat tausend Zungen](/catalog/contemporary/zungen/ "Liebesglück hat tausend Zungen") for soprano voice and piano (score, video)
-- [The Whirlies](/catalog/contemporary/whirlies/) for strings and electro-junk improviser (video, audio)
-- [The Other Other Hand](/catalog/contemporary/tooh/) for ensemble (video)
+- [The Black Rain](black "The Black Rain") for amplified string quintet with live computer processing (score)
+- [The Seventh Voyage](voyage "The Seventh Voyage") for piano and laptop (video)
+- [Dr Mueller? Dr Mueller!? Oh, boy :(](mueller "Dr Mueller? Dr Mueller!? Oh, boy :(") for clarinet and acoustic laptop (score, recording)
+- [Liebesglück hat tausend Zungen](zungen "Liebesglück hat tausend Zungen") for soprano voice and piano (score, video)
+- [The Whirlies](whirlies) for strings and electro-junk improviser (video, audio)
+- [The Other Other Hand](tooh) for ensemble (video)
 - [So-Called 'Natural Selection'](socalled) for strings and speaking voice
 - [In the back of my mind](back) for three flutes and clarinet choir (video)
 - [L'auteur n'est pas mort](auteur) for clarinet, piano and hang (video-score)
-- [String Quartet No 1 "In 4/4"](http://tedthetrumpet.wordpress.com/works/in44/) for string quartet (score)
-- [The Society for Classical and Authentic Music](http://tedthetrumpet.wordpress.com/works/scam/) for six oboes, six bassoons, two ghettoblasters and conductor (video coming one day, soon, maybe, never…)
-- [The Cave of Destiny](http://tedthetrumpet.wordpress.com/works/cave/) duet for trumpet, bass trumpet and reverb (score, recording)
-- [Being Born, Living on Planet Earth and Dying](http://tedthetrumpet.wordpress.com/works/born/) for flute, violin, cello, piano, cimbalom and ghettoblaster
-- [Diverses Mélodies Nobles, Élevées et Héroïques, pour très grand ensemble](http://tedthetrumpet.wordpress.com/works/diverses/) for flute, trombone, piano, cello & percussion (score, recording)
-- [joined\_at\_the\_hip](http://tedthetrumpet.wordpress.com/works/joined/) for flute, clarinet, electric bass and djun-djuns
-- [Schaduwee](http://tedthetrumpet.wordpress.com/works/schaduwee/) for soprano, piano, four bassons, ghettoblaster and video
-- [Tribulation](http://tedthetrumpet.wordpress.com/works/tribulation/) for Ensemble Thing (complete recording)
-- [de stem](http://tedthetrumpet.wordpress.com/works/stem/) for four saxophones
-- [The Blue Box](http://tedthetrumpet.wordpress.com/works/blue/) for cor anglais, violin and bass clarinet (complete recording)
-- [Exactly This](http://tedthetrumpet.wordpress.com/works/exactly/) for trumpet, bongos, contrabass, and CD
+- [String Quartet No 1 "In 4/4"](in44) for string quartet (score)
+- [The Society for Classical and Authentic Music](scam) for six oboes, six bassoons, two ghettoblasters and conductor (video coming one day, soon, maybe, never…)
+- [The Cave of Destiny](cave) duet for trumpet, bass trumpet and reverb (score, recording)
+- [Being Born, Living on Planet Earth and Dying](born) for flute, violin, cello, piano, cimbalom and ghettoblaster
+- [Diverses Mélodies Nobles, Élevées et Héroïques, pour très grand ensemble](diverses) for flute, trombone, piano, cello & percussion (score, recording)
+- [joined\_at\_the\_hip](joined) for flute, clarinet, electric bass and djun-djuns
+- [Schaduwee](schaduwee) for soprano, piano, four bassons, ghettoblaster and video
+- [Tribulation](tribulation) for Ensemble Thing (complete recording)
+- [de stem](stem) for four saxophones
+- [The Blue Box](blue) for cor anglais, violin and bass clarinet (complete recording)
+- [Exactly This](exactly) for trumpet, bongos, contrabass, and CD
 - [5lip5ide](http://tedthetrumpet.wordpress.com/works/5lip5ide/) for trumpet, clarinet (doubling bass clarinet), piano, contrabass, percussion & space gamelan
 - [4thought](http://tedthetrumpet.wordpress.com/works/4thought/) for violin, horn, piano, celesta, and CD
 - [donkerstraat](http://tedthetrumpet.wordpress.com/works/donker/) for CD, horn, tenor sax, guitar & bass clarinet

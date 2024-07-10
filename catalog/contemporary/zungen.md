@@ -9,7 +9,7 @@ tags:
 
 ## 3/02/11 for soprano voice and piano
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_COIORRNWnI?si=T0s3ofsCOiVkqSyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youtube-video" src="https://www.youtube.com/embed/_COIORRNWnI?si=T0s3ofsCOiVkqSyI" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
 
 ### Composer's note

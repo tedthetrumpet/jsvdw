@@ -2,6 +2,10 @@
 sidebar_position: 109
 title: "L'auteur n'est pas mort"
 date: "2010-07-28"
+tags: 
+  - clarinet
+  - piano
+  - percussion
 ---
 
 ## 6/07/07 for clarinet, piano and hang
@@ -14,9 +18,7 @@ Composed for the International Conference on Music Since 1900 at York in 2007; d
 
 Duration ~13'
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TT3s3E1-9ws?si=GhCVap8EI_NSRpxd" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
-
-
+<iframe class="youtube-video" src="https://www.youtube.com/embed/TT3s3E1-9ws?si=GhCVap8EI_NSRpxd" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
 #### Composer's note (1)
 

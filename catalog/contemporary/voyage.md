@@ -9,9 +9,9 @@ tags:
 ---
 ## 4/3/12 for piano and laptop
 
-<!-- default youtube embed code seems fine -->
+<!-- default youtube embed code needs additon of class and camelCase -->
 
- <iframe class="youtube-video" src="https://www.youtube.com/embed/1yMnRK3SD5M?si=hTaB-T3PXdHC0jgf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ <iframe class="youtube-video" src="https://www.youtube.com/embed/1yMnRK3SD5M?si=hTaB-T3PXdHC0jgf" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
 ### Composer's note
 

@@ -2,6 +2,9 @@
 sidebar_position: 107
 title: "So-Called ‘Natural Selection’"
 date: 2010-07-28
+tags: 
+  - strings
+  - voice
 ---
 
 ## 14/04/08 for strings and speaking voice

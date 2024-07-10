@@ -2,6 +2,10 @@
 sidebar_position: 108
 title: "In the back of my mind"
 date: "2010-07-28"
+tags: 
+  - flute
+  - clarinet
+  - phd
 ---
 
 ## 8/11/07 for three flutes and clarinet choir

@@ -8,7 +8,7 @@ tags:
 
 ## 1/05/08 for ensemble
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C8Fozb7LIK0?si=fd4aDQzutgXrYtXS" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+<iframe class="youtube-video" src="https://www.youtube.com/embed/C8Fozb7LIK0?si=fd4aDQzutgXrYtXS" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
 Three-minute promo video, made for the Edinburgh performance.
 
