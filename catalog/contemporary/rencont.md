@@ -1,17 +1,23 @@
 ---
 title: "Les Rencontres Naturelles"
 date: "2010-08-13"
+sidebar_position: 124
+tags:
+    - percussion
+    - violo
+    - bass
+    - cd
 ---
 
 ## 2/3/03 for vibraphone, viola, contrabass and CD
 
-![](/img/rencontres.png "Les Rencontres Naturelles")
-
-'Oh no! The window is sliding down the wall again! Quick, wave the green leaf!'
-
 ### Composer's note
 
-‘Les Rencontres Naturelles’ was inspired in large part by this postcard I received (above) depicting the painting of that name by René Magritte, and the witty caption which accompanied it.
+<div style={{float: 'right', width: '30%'}}>
+![](../../static/img/rencontres.png)
+</div>
+
+‘Les Rencontres Naturelles’ was inspired in large part by this postcard I received depicting the painting of that name by René Magritte, and the witty caption which accompanied it: _'Oh no! The window is sliding down the wall again! Quick, wave the green leaf!'_.
 
 The electroacoustically treated text is by the French painter and physicist Jacques Mandelbrojt, and concerns the relationships between art, science and mathematics in an era dominated by new technology;
 
