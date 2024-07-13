@@ -13,6 +13,6 @@ For some reason, I decided to bill the performance as a 'dangdut', so I also hav
 
 Quick proof-of-concept video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x2XVkoGofQ8?si=34ImR4QeTJDef0lF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x2XVkoGofQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 https://youtu.be/x2XVkoGofQ8

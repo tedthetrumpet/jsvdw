@@ -28,44 +28,44 @@ sidebar_position: 2
 - [4thought](/catalog/contemporary/4thought) for violin, horn, piano, celesta, and CD
 - [donkerstraat](/catalog/contemporary/donker) for CD, horn, tenor sax, guitar & bass clarinet
 - [The Lonely Woodpecker](/catalog/contemporary/lonely) for four alto saxes (complete recording)
-- [Not in my name](/catalog/contemporary/nimn/) for three marimbas and protagonist (video, audio)
+- [Not in my name](/catalog/contemporary/nimn) for three marimbas and protagonist (video, audio)
 - [Les Rencontres Naturelles](/catalog/contemporary/rencont/) for vibraphone, viola, contrabass and CD (score, audio extract)
-- [Ohom zu oboye no wo?](http://tedthetrumpet.wordpress.com/works/ohom/) for amplified recorder (alto, doubling bass) and CD (or laptop) (.mp3 demo, midi sounds)
-- [Muscle Tone](http://tedthetrumpet.wordpress.com/works/muscle/) for soprano saxophone & piano (.mp3 demo, midi sounds)
-- [Bridge River Valley](http://tedthetrumpet.wordpress.com/works/brv/) for piano; also for flute, clarinet, violin & cello (score, .mp3 & .mid demos)
-- [The Quartet](http://tedthetrumpet.wordpress.com/works/quartet/) for solo cello
-- [othing](http://tedthetrumpet.wordpress.com/works/othing/) for strings
-- [There's always one](http://tedthetrumpet.wordpress.com/works/always/) for four saxophones
-- [Answers from last week](http://tedthetrumpet.wordpress.com/works/answers/) for pocket orchestra, with timps
-- [Hanc marginis…](http://tedthetrumpet.wordpress.com/works/hanc/) for four voices (complete recording)
-- [smir](http://tedthetrumpet.wordpress.com/works/smir/) for soprano sax, double bass, marimba and piano (complete recording)
-- [I walked away](http://tedthetrumpet.wordpress.com/works/walked/ "I walked away from the guy") from the guy for clarinet, violin and piano
-- [de straalvleugel](http://tedthetrumpet.wordpress.com/works/straal/ "de straalvleugel") for flugelhorn and marimba (complete recording)
-- [Pivot](http://tedthetrumpet.wordpress.com/works/pivot/ "Pivot") for clarinet, violin and cello
-- [Tears of Joy](http://tedthetrumpet.wordpress.com/works/tears "Tears of Joy") for ensemble (score, complete recording)
-- [Surprising Natural Phenomena](http://tedthetrumpet.wordpress.com/natural/ "Surprising Natural Phenomena") for flugelhorn, didgeridoo & minidisk
-- [The Pearl](http://tedthetrumpet.wordpress.com/works/pearl/ "The Pearl") for ensemble (score, demo recording)
-- [Dialog](http://tedthetrumpet.wordpress.com/works/dialog/ "Dialog") for didgeridu & band (complete recording)
-- [...until someone jumps.](http://tedthetrumpet.wordpress.com/works/jumps/ "…until someone jumps.") for flute, bass clarinet (or clarinet), violin, piano & cello
-- [If Piccs Could Fly](http://tedthetrumpet.wordpress.com/works/piccs/ "If Piccs Could Fly") for four piccolos
-- [Peroration](http://tedthetrumpet.wordpress.com/works/perora/ "Peroration") for organ (revised version) (complete recording)
-- [Azure for Flute Mafia](http://tedthetrumpet.wordpress.com/works/azure/ "Azure for Flute Mafia") for four flutes
-- [Ha!](http://tedthetrumpet.wordpress.com/works/ha/ "Ha!") for strings
-- [Be sure to concentrate while you are degaussing!](http://tedthetrumpet.wordpress.com/works/degau/ "Be sure to concentrate while you are degaussing!") for voices & piano
-- [Sunbird One](http://tedthetrumpet.wordpress.com/sunbird/ "Sunbird One") for invention ensemble (complete recording)
-- [(pq) assembly](http://tedthetrumpet.wordpress.com/works/pq/ "(pq) assembly") for invention ensemble (complete recording)
-- [The Transilience of Monsieur Pelog](http://tedthetrumpet.wordpress.com/works/transilience/ "The Transilience of Monsieur Pelog") for invention ensemble
-- [Reality Intrudes Upon the Comfort of the Rich](http://tedthetrumpet.wordpress.com/works/reality/ "Reality Intrudes Upon the Comfort of the Rich") for loud ensemble and assistant conductor (text score)
-- […certain players are finding reserves of energy…](http://tedthetrumpet.wordpress.com/works/certain/ "…certain players are finding reserves of energy…") for voices, 2 keyboards & electric bass (audio extract)
-- [Ritual Preparation of the Performance Space](http://tedthetrumpet.wordpress.com/works/ritual/ "Ritual Preparation of the Performance Space") for any ensemble (and assistants) (text score)
-- [The Willow Bay where Eagles are heard](http://tedthetrumpet.wordpress.com/works/willow/ "The Willow Bay where Eagles are heard") for orchestra
-- [Tonal Anarchists Through the Ages](http://tedthetrumpet.wordpress.com/works/anarchists/ "Tonal Anarchists Through the Ages") for bass clarinet, vibraphone, piano and percussion
-- [Many Paths Toward the Light; Truth the Only Compass](http://tedthetrumpet.wordpress.com/works/paths/ "Many Paths Toward the Light; Truth the Only Compass") for orchestra
-- [Seven Lies Regarding the Nature of Existence](http://tedthetrumpet.wordpress.com/works/lies/ "Seven Lies Regarding the Nature of Existence") for four saxophones
-- [Two Protozoans (and a Sponge)](http://tedthetrumpet.wordpress.com/works/sponge/ "Two Protozoans (and a Sponge)") for four flutes. (MIDI demo, score extract)
-- [Faint Clicks](http://tedthetrumpet.wordpress.com/works/faint/ "Faint Clicks") for four soprano saxophones (or four oboes). (MIDI demo)
-- [How Two Minds Can Know One Thing](http://tedthetrumpet.wordpress.com/works/twominds/ "How Two Minds Can Know One Thing") for chamber orchestra
-- [Studies of Nucleate Boiling in Thin Liquid Layers](http://tedthetrumpet.wordpress.com/works/nucleate/ "Studies of Nucleate Boiling in Thin Liquid Layers") for chamber ensemble, symphonic wind band & jazz big band
-- [Rate-limiting Step](http://tedthetrumpet.wordpress.com/works/rate/ "Rate-limiting Step") for cello & harp
-- [Soutra Aisle](http://tedthetrumpet.wordpress.com/works/soutra/ "Soutra Aisle") for military band
-- [The Knowing of Things Together](http://tedthetrumpet.wordpress.com/works/knowing/ "The Knowing of Things Together") for didjeridu & ensemble
+- [Ohom zu oboye no wo?](/catalog/contemporary/ohom) for amplified recorder (alto, doubling bass) and CD (or laptop) (.mp3 demo, midi sounds)
+- [Muscle Tone](/catalog/contemporary/muscle) for soprano saxophone & piano (.mp3 demo, midi sounds)
+- [Bridge River Valley](/catalog/contemporary/brv) for piano; also for flute, clarinet, violin & cello (score, .mp3 & .mid demos)
+- [The Quartet](/catalog/contemporary/quartet) for solo cello
+- [othing](/catalog/contemporary/othing) for strings
+- [There's always one](/catalog/contemporary/always) for four saxophones
+- [Answers from last week](/catalog/contemporary/answers) for pocket orchestra, with timps
+- [Hanc marginis…](/catalog/contemporary/hanc) for four voices (complete recording)
+- [smir](/catalog/contemporary/smir) for soprano sax, double bass, marimba and piano (complete recording)
+- [I walked away](/catalog/contemporary/walked "I walked away from the guy") from the guy for clarinet, violin and piano
+- [de straalvleugel](/catalog/contemporary/straal "de straalvleugel") for flugelhorn and marimba (complete recording)
+- [Pivot](/catalog/contemporary/pivot "Pivot") for clarinet, violin and cello
+- [Tears of Joy](/catalog/contemporary/tears "Tears of Joy") for ensemble (score, complete recording)
+- [Surprising Natural Phenomena](/catalog/contemporary/natural "Surprising Natural Phenomena") for flugelhorn, didgeridoo & minidisk
+- [The Pearl](/catalog/contemporary/pearl "The Pearl") for ensemble (score, demo recording)
+- [Dialog](/catalog/contemporary/dialog "Dialog") for didgeridu & band (complete recording)
+- [...until someone jumps.](/catalog/contemporary/jumps "…until someone jumps.") for flute, bass clarinet (or clarinet), violin, piano & cello
+- [If Piccs Could Fly](/catalog/contemporary/piccs "If Piccs Could Fly") for four piccolos
+- [Peroration](/catalog/contemporary/perora "Peroration") for organ (revised version) (complete recording)
+- [Azure for Flute Mafia](/catalog/contemporary/azure "Azure for Flute Mafia") for four flutes
+- [Ha!](/catalog/contemporary/ha "Ha!") for strings
+- [Be sure to concentrate while you are degaussing!](/catalog/contemporary/degau "Be sure to concentrate while you are degaussing!") for voices & piano
+- [Sunbird One](/catalog/contemporary/sunbird "Sunbird One") for invention ensemble (complete recording)
+- [(pq) assembly](/catalog/contemporary/pq "(pq) assembly") for invention ensemble (complete recording)
+- [The Transilience of Monsieur Pelog](/catalog/contemporary/transilience "The Transilience of Monsieur Pelog") for invention ensemble
+- [Reality Intrudes Upon the Comfort of the Rich](/catalog/contemporary/reality "Reality Intrudes Upon the Comfort of the Rich") for loud ensemble and assistant conductor (text score)
+- […certain players are finding reserves of energy…](/catalog/contemporary/certain "…certain players are finding reserves of energy…") for voices, 2 keyboards & electric bass (audio extract)
+- [Ritual Preparation of the Performance Space](/catalog/contemporary/ritual "Ritual Preparation of the Performance Space") for any ensemble (and assistants) (text score)
+- [The Willow Bay where Eagles are heard](/catalog/contemporary/willow "The Willow Bay where Eagles are heard") for orchestra
+- [Tonal Anarchists Through the Ages](/catalog/contemporary/anarchists "Tonal Anarchists Through the Ages") for bass clarinet, vibraphone, piano and percussion
+- [Many Paths Toward the Light; Truth the Only Compass](/catalog/contemporary/paths "Many Paths Toward the Light; Truth the Only Compass") for orchestra
+- [Seven Lies Regarding the Nature of Existence](/catalog/contemporary/lies "Seven Lies Regarding the Nature of Existence") for four saxophones
+- [Two Protozoans (and a Sponge)](/catalog/contemporary/sponge "Two Protozoans (and a Sponge)") for four flutes. (MIDI demo, score extract)
+- [Faint Clicks](/catalog/contemporary/faint "Faint Clicks") for four soprano saxophones (or four oboes). (MIDI demo)
+- [How Two Minds Can Know One Thing](/catalog/contemporary/twominds "How Two Minds Can Know One Thing") for chamber orchestra
+- [Studies of Nucleate Boiling in Thin Liquid Layers](/catalog/contemporary/nucleate "Studies of Nucleate Boiling in Thin Liquid Layers") for chamber ensemble, symphonic wind band & jazz big band
+- [Rate-limiting Step](/catalog/contemporary/rate "Rate-limiting Step") for cello & harp
+- [Soutra Aisle](/catalog/contemporary/soutra "Soutra Aisle") for military band
+- [The Knowing of Things Together](/catalog/contemporary/knowing "The Knowing of Things Together") for didjeridu & ensemble
