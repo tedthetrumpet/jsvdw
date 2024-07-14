@@ -23,9 +23,10 @@ const FeatureList = [
       </ul>
       <h3>Elsewhere</h3>
         <ul>
-          <li>Link</li>
-          <li> <a href="https://post.lurk.org/@tedthetrumpet">Mastodon – post.lurk.org/@tedthetrumpet</a>   </li>
-          <li>Link</li>
+          <li> <a href="https://post.lurk.org/@tedthetrumpet" target="_blank">post.lurk.org/@tedthetrumpet</a></li>
+          <li> <a href="mailto:tedthetrumpet@gmail.com">tedthetrumpet@gmail.com</a></li>
+          <li> <a href="https://tedthetrumpet.hotglue.me/" target="_blank">Who is tedthetrumpet?</a></li>
+          
         </ul>
       </>
     ),

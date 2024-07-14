@@ -25,4 +25,4 @@ Duration ~6'
 <audio controls>
   <source src="/plasmo.mp3"/>
 </audio>
-(https://tedthetrumpet.files.wordpress.com/2021/06/plasmo.mp3) (2'22, 3.2 MB)
+(/plasmo.mp3) (2'22, 3.2 MB)
