@@ -2,8 +2,7 @@
 title: "The Whirlies – success!"
 date: "2008-11-20"
 tags: 
-  - "all"
-  - "reviews"
+  - review
 ---
 
 The performance of The Whirlies the other night was a bit of a stunning success. Good audience, including the arts editor of the Herald, Keith Bruce, who seemed to really get the piece;
@@ -14,7 +13,7 @@ The performance of The Whirlies the other night was a bit of a stunning success.
 
 The East Kilbride Mail also wrote up the piece enthusiastically, and even did one of those celebrity twenty question interviews;
 
-![](../static/img/whirlies-ekmail.png)]
+![](/blog/whirlies-ekmail.png)]
 
-![](../static/img/ted-ekmail01.png)]
+![](/blog/ted-ekmail01.png)]
 
