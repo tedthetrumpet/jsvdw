@@ -50,6 +50,9 @@ const config = {
           feedOptions: {
             type: 'all',
           },
+          blogSidebarTitle: 'Posts',
+          tags: null,
+          onInlineTags: 'ignore',
         },
         theme: {
           customCss: './src/css/custom.css',
