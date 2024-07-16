@@ -1,14 +1,19 @@
+<iframe class="youtube-video" src="https://www.youtube.com/embed/_COIORRNWnI" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+
+
+<audio controls>
+  <source src="/pylon-country.mp3"/>
+</audio>
+
+
+<iframe width="100%" height="125" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/39302682&color=%23ff5500&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+
+-----------
+
 <video controls>
   <source src="/test.mp4"/>
 </video>
-
-<ReactPlayer playing controls url='/whirlies-d-ex.mp3' />
-
-<ReactPlayer url='https://www.youtube.com/watch?v=LXb3EKWsInQ' />
-
-
-
-import ReactPlayer from 'react-player'
 
 
 
@@ -45,7 +50,7 @@ youtube videos, need to get iframe embed
 
 replace
 
-categories: 
+tags: 
   - "tech"
   
 with 

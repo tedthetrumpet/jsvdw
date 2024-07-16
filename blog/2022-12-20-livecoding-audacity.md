@@ -1,6 +1,8 @@
 ---
 title: "Livecoding Audacity"
 date: "2022-12-20"
+tags:
+    - livecode
 ---
 
 Had a slightly crazy idea for the [TidalClub Night Stream on 2022-12-21](https://sun.tidalcycles.org/) – could I livecode something in Audacity?!?
@@ -13,6 +15,9 @@ For some reason, I decided to bill the performance as a 'dangdut', so I also hav
 
 Quick proof-of-concept video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x2XVkoGofQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youtube-video" src="https://www.youtube.com/embed/x2XVkoGofQ8" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
 https://youtu.be/x2XVkoGofQ8
+
+
+

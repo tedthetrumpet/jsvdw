@@ -40,6 +40,6 @@ Written for and first performed by the [Scottish Ensemble](http://www.scottishen
 
 ### Score
 
-[the-black-rain1.pdf](../../static/img/the-black-rain1.pdf), including SC code.
+[the-black-rain1.pdf](/the-black-rain1.pdf), including SC code.
 
 Duration ~8'

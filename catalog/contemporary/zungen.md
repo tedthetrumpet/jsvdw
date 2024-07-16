@@ -26,6 +26,6 @@ First Performed by [Rachael Brimley](https://twitter.com/RachaelBrimley) (sopran
 
 ### Score
 
-[liebesglucc88ck-hat-tausend-zungen.pdf](../../static/img/liebesglucc88ck-hat-tausend-zungen.pdf) (includes performance instructions and translation of text)
+[liebesglucc88ck-hat-tausend-zungen.pdf](/liebesglucc88ck-hat-tausend-zungen.pdf) (includes performance instructions and translation of text)
 
 Duration ~7'

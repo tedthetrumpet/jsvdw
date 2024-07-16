@@ -47,6 +47,9 @@ const config = {
         blog: {
           showReadingTime: false,
           blogSidebarCount: 'ALL',
+          feedOptions: {
+            type: 'all',
+          },
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -142,6 +145,7 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+        additionalLanguages: ['supercollider'],
       },
     }),
 };

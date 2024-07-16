@@ -1,7 +1,7 @@
 ---
 title: "The Whirlies – success!"
 date: "2008-11-20"
-categories: 
+tags: 
   - "all"
   - "reviews"
 ---

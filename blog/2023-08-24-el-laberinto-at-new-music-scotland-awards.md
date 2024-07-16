@@ -6,21 +6,12 @@ tags:
 
 ---
 
-
 Just heard that my new piece 'El laberinto' for voice, bass clarinet and general MIDI is going to be performed by Stephanie Lamprea and Alex South at the [Scottish Awards for New Music 2023](https://newmusicscotland.co.uk/awards2023/) on 1st September.
 
 
-<!-- 
-orginal, would need to change as below
+![](/blog/screenshot-2023-08-24-at-10.39.06-1.png)
 
-[![](https://tedthetrumpet.files.wordpress.com/2023/08/screenshot-2023-08-24-at-10.39.06-1.png?w=1024)](https://tedthetrumpet.files.wordpress.com/2023/08/screenshot-2023-08-24-at-10.39.06-1.png)
-
- -->
-
-![](../static/img/screenshot-2023-08-24-at-10.39.06-1.png)
-
-
-I say 'new piece' – effectively this is revisiting and recontextualisation of an earlier piece '[El laberinto de mi mente](https://jsimonvanderwalt.com/works/laberinto/)'.
+I say 'new piece' – effectively this is revisiting and recontextualisation of an earlier piece '[El laberinto de mi mente](/catalog/jazzetc/mente)'.
 
 Here's what I've written about the new version:
 

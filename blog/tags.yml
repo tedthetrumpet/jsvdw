@@ -2,3 +2,8 @@ news:
   label: news
   permalink: /news
   description: stuff happening
+livecode:
+  label: livecode
+  permalink: /livecode
+  description: livecode
+
