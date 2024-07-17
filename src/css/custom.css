@@ -4,19 +4,6 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
-/* :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-} */
-
 :root {
   --ifm-color-primary: #0432ff;
   --ifm-color-primary-dark: #002be9;
@@ -49,51 +36,8 @@ broke front page a bit on linux
 */
 
 
-
-
-
-/* needs more work
-
-@import url('https://fonts.googleapis.com/css2?family=Montserratital,
-Montserrat:ital,
-wght@0, 100;
-0,
-200;
-0,
-300;
-0,
-400;
-0,
-500;
-0,
-600;
-0,
-700;
-0,
-800;
-0,
-900;
-1,
-100;
-1,
-200;
-1,
-300;
-1,
-400;
-1,
-500;
-1,
-600;
-1,
-700;
-1,
-800;
-1,
-900
-&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
   --ifm-font-family-base: 'Montserrat';
-} */
-
+}
