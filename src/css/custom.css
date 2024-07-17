@@ -43,42 +43,57 @@
   width: 100%;
 }
 
-/* smaller screen – didn't like this on mobile
-@media screen and (max-width: 996px) {
-  :root {
-    --ifm-font-size-base: 18px;
-  }
-
-}
-
- */
-
-/* full width screen 
-@media screen and (min-width: 997px) {
-  :root {
-    --ifm-font-size-base: 17px;
-  }
-}
-
+/*
+fiddling with base font size not a good idea
+broke front page a bit on linux
 */
 
-/* try same size for both */
-/* slightly prefer 18 to 17 on desktop */
-/* check on linux */
-
-:root {
-  --ifm-font-size-base: 17px
-}
 
 
 
 
-/* 
+/* needs more work
 
-This works, but seem to lose a lot of bold styling somewhere
-
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserratital,
+Montserrat:ital,
+wght@0, 100;
+0,
+200;
+0,
+300;
+0,
+400;
+0,
+500;
+0,
+600;
+0,
+700;
+0,
+800;
+0,
+900;
+1,
+100;
+1,
+200;
+1,
+300;
+1,
+400;
+1,
+500;
+1,
+600;
+1,
+700;
+1,
+800;
+1,
+900
+&display=swap');
 
 :root {
   --ifm-font-family-base: 'Montserrat';
 } */
+
