@@ -1,0 +1,3 @@
+/Users/jsimon/github_repos_notd/jsvdw_docusaurus/node_modules/infima/dist/css/default/default.css 
+
+/Users/jsimon/github_repos_notd/jsvdw_docusaurus/node_modules/infima/dist/css/default/default.css 
