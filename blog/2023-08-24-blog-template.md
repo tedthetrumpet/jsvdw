@@ -9,9 +9,18 @@ draft: true
 
 ---
 
+<!-- use this to prevent hashing :) -->
+
+![test image](pathname:///img/test.png)
+
+<!-- use this to prevent hashing :) -->
+
+[test.pdf](pathname:///blog/test.pdf)
+
+
 Exited about [this](https://newmusicscotland.co.uk/awards2023/)
 
-// image
+<!-- image will be hashed, ok -->
 
 ![](/blog/screenshot-2023-08-24-at-10.39.06-1.png)
 
@@ -19,11 +28,15 @@ Exited about [this](https://newmusicscotland.co.uk/awards2023/)
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/_COIORRNWnI" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
-// audio, put files in /static/blog/
+<!--  audio, put files in /static/blog/ -->
+<!-- pathname trick does not work in the audio tag: not a dealbreaker -->
 
 <audio controls>
   <source src="/blog/pylon-country.mp3"/>
 </audio>
+
+<!-- unhashed link to file -->
+[pylon-country.mp3](pathname:///blog/pylon-country.mp3)
 
 // soundcloud
 

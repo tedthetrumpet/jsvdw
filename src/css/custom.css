@@ -43,3 +43,7 @@ broke front page a bit on linux
 :root {
   --ifm-heading-font-family: Montserrat, system-ui
 }
+
+  .navbar__title, .navbar__item {
+    font-family: Montserrat, system-ui
+  }

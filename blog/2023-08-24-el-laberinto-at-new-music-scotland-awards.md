@@ -2,7 +2,8 @@
 title: "'El laberinto' at New Music Scotland awards"
 date: "2023-08-24"
 tags: 
-  - "news"
+  - voice
+  - clarinet
 
 ---
 

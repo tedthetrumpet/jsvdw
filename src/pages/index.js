@@ -26,8 +26,8 @@ export default function Hello() {
             left: '2vw',
             top: 0,
           }}>
-          <p style={{ fontSize: '5.1vw'}}>J Simon van der Walt</p>
-          <p style={{ fontSize: '3.4vw', lineHeight: 0.05 }}>composer | performer | teacher</p>
+          <h1 style={{ fontSize: '4.3vw'}}>J Simon van der Walt</h1>
+          <h2 style={{ fontSize: '2.9vw', lineHeight: 0.05 }}>composer | performer | teacher</h2>
         </div>
 
       </div>

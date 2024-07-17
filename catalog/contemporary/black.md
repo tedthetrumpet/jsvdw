@@ -15,7 +15,9 @@ tags:
 > 
 > As the sun was about to set, a black rain fell on the desert.’
 
-<div style={{float: 'right', width: '30%', border: 'solid', borderWidth: 'thin'}}>![](../../static/img/blackrain2.png)</div>
+<div style={{float: 'right', width: '30%', border: 'solid', borderWidth: 'thin'}}>
+![](/img/blackrain2.png)
+</div>
 
 ‘The Black Rain’ takes its title from the first chapter of Stanisław Lem’s 1967 science fiction novel ‘The Invincible’, in which a mighty spaceship and her crew are overcome by a race of microscopic mechanical flies, individually insignificant, but capable of joining together into a vast quasi-intelligent ‘cloud’: surely one of the first fictional works to speculate on the possibilities of nanotechnology, calling to mind such devices as the nanostats which inhabit Neal Stephenson’s 1995 novel ‘The Diamond Age’, and the EDust, or Everything Dust, in Iain M. Banks 2000 ‘Look to Windward’.
 
