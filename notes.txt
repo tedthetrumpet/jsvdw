@@ -6,7 +6,7 @@ priorities
     - why is that barewiresflyer3web.png in the root?
   * check those fontsizes on mobile
   * maybe do some work on over-large headings
-  * a little bit of font customisation? why no bold with Montserrat
+  * a little bit of font customisation? << was not meant to be a priority grr!!!!!!!!!!!!!
   * do _actual updates_ particularly missing works in catalog (many)
   * rename repo and vercel project
   * have a go at pointing siteground > vercel
