@@ -32,18 +32,18 @@
 
 /*
 fiddling with base font size not a good idea
-broke front page a bit on linux
+broke front page on linux
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+/* different font for headings etc looks nice */
+/* plus fallback */
 
-/* try this */
-/* looks ok, need to add in other places */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
   --ifm-heading-font-family: Montserrat, system-ui
 }
 
-  .navbar__title, .navbar__item {
-    font-family: Montserrat, system-ui
-  }
+.navbar__title, .navbar__item {
+  font-family: Montserrat, system-ui
+}
