@@ -17,4 +17,4 @@ Duration ~5-6'
 
 ### Score
 
-[othing.pdf](/othing.pdf) (725 KB)
+[othing.pdf](pathname:///catalog/othing.pdf) (725 KB)

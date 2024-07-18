@@ -24,4 +24,4 @@ Duration ~4'40
 
 ### Score
 
-[seven-lies.pdf](/seven-lies.pdf "Seven Lies… score")
+[seven-lies.pdf](pathname:///catalog/seven-lies.pdf "Seven Lies… score")

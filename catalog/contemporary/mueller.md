@@ -34,7 +34,7 @@ Michael Tumelty, The Herald 25/4/12
 
 ### Score
 
-[dr-mueller.pdf](/dr-mueller.pdf)
+[dr-mueller.pdf](pathname:///catalog/dr-mueller.pdf)
 
 
 ![](../../static/img//mueller1.png "Dr Mueller - clarinet part")

@@ -19,10 +19,10 @@ tags:
 ### Score
 
 Movement 1:
-[BRV1piano.pdf](/brv1piano.pdf) (700KB)
+[BRV1piano.pdf](pathname:///catalog/brv1piano.pdf) (700KB)
 
 Movement 2:
-[BRV2piano](/brv2piano.pdf) (2.3MB)
+[BRV2piano](pathname:///catalog/brv2piano.pdf) (2.3MB)
 
 ### Sounds
 

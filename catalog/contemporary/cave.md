@@ -34,5 +34,5 @@ Duration ~3'
 
 ### Score
 
-[The Cave of Destiny (.pdf 94.8 KB)](../../static/img/the-cave-of-destiny.pdf)
+[The Cave of Destiny (.pdf 94.8 KB)](pathname:///catalog/the-cave-of-destiny.pdf)
 

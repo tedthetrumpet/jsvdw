@@ -54,4 +54,4 @@ Duration ~4'
 
 ### Score
 
-[The Pearl (.pdf)](http://tedthetrumpet.files.wordpress.com/2011/07/pearlp.pdf)
+[The Pearl (.pdf)](pathname:///catalog/pearlp.pdf)

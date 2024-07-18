@@ -31,4 +31,4 @@ Duration ~7.25'
 
 ### Score
 
-[tears.pdf (688 KB)](/tears.pdf)
+[tears.pdf (688 KB)](pathname:///catalog/tears.pdf)

@@ -39,7 +39,7 @@ Duration ~4 mins
 
 Here's the full score, and also a copy of the electroacoustic bit which happens half way through;
 
-[Les Rencontres Score (2.9 MB)](/lesrencontresscore.pdf)
+[Les Rencontres Score (2.9 MB)](pathname:///catalog/lesrencontresscore.pdf)
 
 <audio controls>
   <source src="/lesrencontresaudio.mp3"/>

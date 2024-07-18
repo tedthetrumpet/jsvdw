@@ -10,9 +10,6 @@ tags:
 
 ## 7/7/01 for clarinet, violin and cello
 
-
-
-
 ### Composer's note
 
 The most obvious 'Pivot' in this piece is the cellist, who remains physically immobile while the other players are free to move. Musically, however, it is the cello part which moves, pivoting around a fixed harmonic point implied by the violin and clarinet.

@@ -22,5 +22,5 @@ Duration ~5'
 
 ### Score
 
-[theres-always-one.pdf](/img/theres-always-one.pdf) (791 KB)
+[theres-always-one.pdf](pathname:///catalog/theres-always-one.pdf) (791 KB)
 

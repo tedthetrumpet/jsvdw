@@ -9,7 +9,7 @@ export default function Hello() {
         style={{
           position: 'relative',
           margin: 'auto',
-          display: 'flex', /* probably redundant */
+          display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
           /* height: '60vh', */
@@ -19,15 +19,13 @@ export default function Hello() {
         <img src="/img/jsimonvanderwalt.png" alt="Simon"></img>
         <div
           style={{
-/*             margin: 'auto',
-            width: '90%', */
             color: 'white',
             position: 'absolute',
             left: '2vw',
             top: 0,
           }}>
-          <h1 style={{ fontSize: '4.3vw'}}>J Simon van der Walt</h1>
-          <h2 style={{ fontSize: '2.9vw', lineHeight: 0.05 }}>composer | performer | teacher</h2>
+          <h1 style={{ fontSize: '4.3vw', fontWeight: 500}}>J Simon van der Walt</h1>
+          <h2 style={{ fontSize: '2.9vw', lineHeight: 0.05, fontWeight: 500 }}>composer | performer | teacher</h2>
         </div>
 
       </div>

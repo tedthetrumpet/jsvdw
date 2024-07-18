@@ -24,7 +24,7 @@ Duration ~10'
 
 ### Score
 
-[answers-from-last-week.pdf](/answers-from-last-week.pdf)
+[answers-from-last-week.pdf](pathname:///catalog/answers-from-last-week.pdf)
 
 
 

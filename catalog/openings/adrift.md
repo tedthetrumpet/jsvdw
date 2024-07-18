@@ -10,7 +10,7 @@ sidebar_position: 201
 
 ### Notes
 
-The graphic above is all the notation needed in performance. For instructions as to how to play this on gamelan, or similar, see the full [.pdf version](https://tedthetrumpet.files.wordpress.com/2019/12/adrift_afloat_2k20.pdf) of the score. One of my best and most versatile pieces of material, playable by non/musicians, on almost any group of instruments capable of dynamics. (There is also a live electronic visualisation of this piece, which I should try to get a video of up here one day…)
+The graphic above is all the notation needed in performance. For instructions as to how to play this on gamelan, or similar, see the full [.pdf version](pathname:///catalog/adrift_afloat_2k20.pdf) of the score. One of my best and most versatile pieces of material, playable by non/musicians, on almost any group of instruments capable of dynamics. (There is also a live electronic visualisation of this piece, which I should try to get a video of up here one day…)
 
 Duration 4'33
 

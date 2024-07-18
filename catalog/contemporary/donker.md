@@ -30,4 +30,4 @@ Update 12/8/2010 - the CD part is now also a standalone track, called 'vifyavif 
 
 ### Score
 
-[donkerstraat.pdf](/img/donkerstraat.pdf) (2.3 MB)
+[donkerstraat.pdf](pathname:///catalog/donkerstraat.pdf) (2.3 MB)

@@ -38,5 +38,5 @@ Duration ~4'33
 
 ### Score
 
-[faintclicks.pdf](/img/faintclicks.pdf "faintclicks.pdf")
+[faintclicks.pdf](pathname:///catalog/faintclicks.pdf "faintclicks.pdf")
 

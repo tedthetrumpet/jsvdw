@@ -28,4 +28,4 @@ Duration ~10'
 
 'The Society for Classical and Ancient Music is the ritual court orchestra of the independent island principality of San Serif. The oboe and bassoon were brought to the island by Portuguese traders in the C17th; in the subsequent centuries a unique playing tradition has evolved, a syncretic blend of cargo-cult findings and the imitated voices of ancestral spirits. The RSAMD are proud to be able to present this rarely-heard music in a concert setting, and would ask that the audience respect the fact that, for the players, today's performance will be a religious ceremony as well as a concert.'
 
-(There is also a more [complete version](../../static/img/scam_note.pdf) (.pdf, 44KB) of the composer's note.)
+(There is also a more [complete version](pathname:///catalog/scam_note.pdf) (.pdf, 44KB) of the composer's note.)

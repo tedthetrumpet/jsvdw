@@ -21,5 +21,5 @@ Duration ~6'
 
 ### Score
 
-[gamelunk\_2k11.pdf](/gamelunk_2k11.pdf)
+[gamelunk\_2k11.pdf](pathname:///catalog/gamelunk_2k11.pdf)
 

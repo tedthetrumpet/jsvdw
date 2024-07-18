@@ -39,4 +39,4 @@ Update 10/8/2010 - the 'granular dance' remix is now also a standalone track cal
 
 ### Score
 
-[exactly_this.pdf (725 KB)](/img/exactly_this.pdf)
+[exactly_this.pdf (725 KB)](pathname:///catalog/exactly_this.pdf)

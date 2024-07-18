@@ -40,4 +40,4 @@ Duration ~9'
 
 ### Score
 
-[The Blue Box.pdf](img/the-blue-box.pdf "The Blue Box")
+[The Blue Box.pdf](pathname:///catalog/the-blue-box.pdf "The Blue Box")

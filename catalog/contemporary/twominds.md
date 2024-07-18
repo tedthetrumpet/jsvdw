@@ -54,4 +54,4 @@ Total duration (three movements) ~20'27
 
 ### Score
 
-[How Two Minds Can Know One Thing score.pdf](/how-two-minds-can-know-one-thing-score-600dpi.pdf "How Two Minds Can Know One Thing score 600dpi")
+[How Two Minds Can Know One Thing score.pdf](pathname:///catalog/how-two-minds-can-know-one-thing-score-600dpi.pdf "How Two Minds Can Know One Thing score 600dpi")

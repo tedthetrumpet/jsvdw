@@ -10,7 +10,7 @@ sidebar_position: 202
 
 ### Notes
 
-The graphic above is, in a sense, the score for CIRCULARTHING, with nothing more to be said. However, this score does have a… performing tradition associated with it, which is outlined in [the complete version of the score](/circularthing.pdf "CIRCULARTHING").
+The graphic above is, in a sense, the score for CIRCULARTHING, with nothing more to be said. However, this score does have a… performing tradition associated with it, which is outlined in [the complete version of the score](pathname:///catalog/circularthing.pdf "CIRCULARTHING").
 
 This piece was a part of the repertoire of the street-art project **The Society for High Art Music**, and was originally for two tenor horns and two trombones. It has since been incorportad in several other works, including [Othing](../contemporary/othing) and [The Society for Classical and Authentic](../contemporary/scam/) music.
 

@@ -1,30 +1,42 @@
 
 priorities
   * resolve warnings
-  * figure out how assets actually work
+  * update assets that should not be hashed
     - duplicated files between docs/blog: maybe not really a problem?
     - why is that barewiresflyer3web.png in the root?
-  * check those fontsizes on mobile
   * maybe do some work on over-large headings
-  * a little bit of font customisation? << was not meant to be a priority grr!!!!!!!!!!!!!
   * do _actual updates_ particularly missing works in catalog (many)
-  * rename repo and vercel project
   * have a go at pointing siteground > vercel
     - aha! use tedthetrumpet.com as a testbed for that
-
-
+  * rework smallish 'hero' images in catalog
+  * many, many scores of existing pieces missing from catalog :)
 
 ====================
 
 <iframe class="youtube-video" src="https://www.youtube.com/embed/_COIORRNWnI" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
+<!-- blog audio, put files in /static/blog/ -->
+<!-- pathname trick does not work in the audio tag: not a dealbreaker -->
+
 <audio controls>
-  <source src="/pylon-country.mp3"/>
+  <source src="/blog/pylon-country.mp3"/>
 </audio>
+
+<!-- unhashed link to file -->
+[pylon-country.mp3](pathname:///blog/pylon-country.mp3)
 
 <iframe width="100%" height="125" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/39302682&color=%23ff5500&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 <iframe src="https://player.vimeo.com/video/13710297?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="In the back of my mind"></iframe>
+
+<!-- use this to prevent hashing :) -->
+
+![test image](pathname:///img/test.png)
+
+<!-- use this to prevent hashing :) -->
+
+[test.pdf](pathname:///blog/test.pdf)
+[test.pdf](pathname:///catalog/test.pdf)
 
 
 ===================

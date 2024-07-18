@@ -26,7 +26,7 @@ tags:
 
 ### Score
 
-[diverses.pdf (725 KB)](../../static/img/diverses.pdf)
+[diverses.pdf (725 KB)](pathname:///catalog/diverses.pdf)
 
 ### About
 

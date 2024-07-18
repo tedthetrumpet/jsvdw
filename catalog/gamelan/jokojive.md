@@ -10,7 +10,7 @@ This may be the most *un*popular piece I have ever written! In June of 2002, Gam
 
 ### Score
 
-[joko_jive.pdf (1.9 MB)](/joko_jive.pdf)
+[joko_jive.pdf (1.9 MB)](pathname:///catalog/joko_jive.pdf)
 
 I can't seem to find the bonang part at the moment - not that we'd ever want to play this again. Probably.
 

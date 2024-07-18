@@ -35,7 +35,7 @@ The winds have distorted classical gestures, further munged by having the transp
 
 ### Score
 
-No 'score' of this piece exists, in the sense of a linear, vertically co-ordinated presentation of musical events in time. The ‘score’, in the sense of ‘the material originated by the composer from which a performance is to be constructed’, consists of some performance notes, an ‘overview’ (which doubles as a performance part for the djun-djuns and bass), and four ‘adhesions’ which comprise the performance material for the winds: [joined_at_the_hip.pdf](../../static/img/joined_at_the_hip.pdf).
+No 'score' of this piece exists, in the sense of a linear, vertically co-ordinated presentation of musical events in time. The ‘score’, in the sense of ‘the material originated by the composer from which a performance is to be constructed’, consists of some performance notes, an ‘overview’ (which doubles as a performance part for the djun-djuns and bass), and four ‘adhesions’ which comprise the performance material for the winds: [joined_at_the_hip.pdf](pathname:///catalog/joined_at_the_hip.pdf).
 
 
 

@@ -21,4 +21,4 @@ Duration 7'
 
 ### Score
 
-[quartet.pdf](/quartet.pdf)
+[quartet.pdf](pathname:///catalog/quartet.pdf)

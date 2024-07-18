@@ -14,6 +14,6 @@ Duration ~2'00
 
 ### Score
 
-[ominous.pdf (102 KB)](/ominous.pdf)
+[ominous.pdf (102 KB)](pathname:///catalog/ominous.pdf)
 
 

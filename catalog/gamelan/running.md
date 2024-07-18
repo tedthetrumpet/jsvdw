@@ -10,9 +10,9 @@ I've been fiddling with this piece forever, but now it seems to be approaching i
 
 ### Score
 
-[rid06d.pdf](/rid06d.pdf) (725 KB) balungan etc
+[rid06d.pdf](pathname:///catalog/rid06d.pdf) (725 KB) balungan etc
 
-[rid06b_bonang.pdf](/rid06b_bonang.pdf) (725 KB) bonangs
+[rid06b_bonang.pdf](pathname:///catalog/rid06b_bonang.pdf) (725 KB) bonangs
 
 ### Notes
 
