@@ -26,10 +26,10 @@ Duration 6'30
 ### Audio
 
 <audio controls>
-  <source src="/nimn2.mp3"/>
+  <source src="/catalog/nimn2.mp3"/>
 </audio>
 
-[nimn2.mp3](/nimn2.mp3) (6'30, 4.8 MB)
+[nimn2.mp3](pathname:///catalog/nimn2.mp3) (6'30, 4.8 MB)
 
 
 ![](/img/nimn.jpg "Not in my name")

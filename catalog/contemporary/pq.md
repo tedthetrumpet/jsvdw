@@ -14,9 +14,10 @@ tags:
 ### Recording
 
 <audio controls>
-  <source src="/pq.mp3"/>
+  <source src="/catalog/pq.mp3"/>
 </audio>
-[pq.mp3](/pq.mp3) (8'10, 9.4 MB)
+
+[pq.mp3](pathname:///catalog/pq.mp3) (8'10, 9.4 MB)
 
 ### Composer's note
 

@@ -13,9 +13,9 @@ tags:
 ### Recording
 
 <audio controls>
-  <source src="/certain.mp3"/>
+  <source src="/catalog/certain.mp3"/>
 </audio>
-[certain.mp3](/certain.mp3) (30' extract, 442 KB)
+[certain.mp3](pathname:///catalog/certain.mp3) (30' extract, 442 KB)
 
 ### Composer's note
 

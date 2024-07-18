@@ -20,11 +20,11 @@ Duration ~4'33
 
 ### Recording
 
-<audio controls>
-  <source src="/circularthing.mp3"/>
-</audio>
-[circularthing.mp3](/circularthing.mp3) (5'38, 7.7 MB)
 
+<audio controls>
+  <source src="/catalog/circularthing.mp3"/>
+</audio>
+[circularthing.mp3](pathname:///catalog/circularthing.mp3) (5'38, 7.7 MB)
 
 
 

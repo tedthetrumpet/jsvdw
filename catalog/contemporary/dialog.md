@@ -40,6 +40,6 @@ Duration ~11'
 ### Recording
 
 <audio controls>
-  <source src="/dialog.mp3"/>
+  <source src="/catalog/dialog.mp3"/>
 </audio>
-[dialog.mp3](/dialog.mp3) (10'42, 15.4 MB)
+[dialog.mp3](pathname:///catalog/dialog.mp3) (10'42, 15.4 MB)

@@ -23,6 +23,7 @@ Duration ~6'
 ### Midi demo
 
 <audio controls>
-  <source src="/plasmo.mp3"/>
+  <source src="/catalog/plasmo.mp3"/>
 </audio>
-(/plasmo.mp3) (2'22, 3.2 MB)
+
+[plasmo.mp3](pathname:///catalog/plasmo.mp3) (2'22, 3.2 MB)

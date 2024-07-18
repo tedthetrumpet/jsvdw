@@ -29,14 +29,15 @@ Movement 2:
 Midi demos:
 
 <audio controls>
-  <source src="/road.mp3"/>
+  <source src="/catalog/road.mp3"/>
 </audio>
-[road.mp3](/road.mp3)
+[road.mp3](pathname:///catalog/road.mp3)
 
 <audio controls>
-  <source src="/road2final.mp3"/>
+  <source src="/catalog/road2final.mp3"/>
 </audio>
-[road2final.mp3](/road2final.mp3)
+[road2final.mp3](pathname:///catalog/road2final.mp3)
+
 
 ### Notes
 

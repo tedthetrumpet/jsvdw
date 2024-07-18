@@ -8,10 +8,11 @@ sidebar_position: 503
 
 ![](/img/mazewire.png "mazewire")
 
+
 <audio controls>
-  <source src="/auldpipesofmazblee.mp3"/>
+  <source src="/catalog/auldpipesofmazblee.mp3"/>
 </audio>
-[auldpipesofmazblee.mp3](/auldpipesofmazblee.mp3) tiny fragment of output (0'16, 220 KB)
+[auldpipesofmazblee.mp3](pathname:///catalog/auldpipesofmazblee.mp3) tiny fragment of output (0'16, 220 KB)
 
 The first time my electronics took part in a performance was when they were sewn into painting paintings by the artist Phaythe, as part of a concert of music by Invention Ensemble. For the [ArtMaze at Glasgow Green in May of 1998](artmaze), I combined five circuits in a transparent splashproof plastic box. Audience interaction was provided via three pushbuttons, which, in various combinations, selected one or more of the circuits for varying amounts of time. The result was a chaotic and unpredictable jumble of electronic music and sound; a maze of wires & waveforms.
 

@@ -9,9 +9,10 @@ tags:
 ## 17/8/98 for strings
 
 <audio controls>
-  <source src="/ha.mp3"/>
+  <source src="/catalog/ha.mp3"/>
 </audio>
-[ha.mp3](/ha.mp3) (13'13, 15 MB)
+[ha.mp3](pathname:///catalog/ha.mp3) (13'13, 15 MB)
+
 
 ### Composer's note
 

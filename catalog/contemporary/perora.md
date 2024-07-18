@@ -11,9 +11,12 @@ tags:
 ### Recording
 
 <audio controls>
-  <source src="/pero2.mp3"/>
+  <source src="/catalog/pero2.mp3"/>
 </audio>
-[pero2.mp3](/pero2.mp3) (6'04, 4.2 MB)
+
+[pero2.mp3](pathname:///catalog/pero2.mp3) (6'04, 4.2 MB)
+
+
 
 ### Composer's note
 

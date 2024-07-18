@@ -41,8 +41,9 @@ Here's the full score, and also a copy of the electroacoustic bit which happens 
 
 [Les Rencontres Score (2.9 MB)](pathname:///catalog/lesrencontresscore.pdf)
 
-<audio controls>
-  <source src="/lesrencontresaudio.mp3"/>
-</audio>
-[LesRencontresAudio.mp3](/lesrencontresaudio.mp3) (1'01, 1.3 MB)
 
+<audio controls>
+  <source src="/catalog/lesrencontresaudio.mp3"/>
+</audio>
+
+[lesrencontresaudio.mp3](pathname:///catalog/lesrencontresaudio.mp3) (1'01, 1.3 MB)

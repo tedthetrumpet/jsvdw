@@ -48,9 +48,11 @@ Duration ~4'
 ### Demo
 
 <audio controls>
-  <source src="/pearl.mp3"/>
+  <source src="/catalog/pearl.mp3"/>
 </audio>
-[pearl.mp3](/pearl.mp3) (3'14, 3.1 MB)
+
+[pearl.mp3](pathname:///catalog/pearl.mp3) (3'14, 3.1 MB)
+
 
 ### Score
 

@@ -10,11 +10,14 @@ tags:
 
 ### Sounds
 
-<audio controls>
-  <source src="/ellaberintor.mp3"/>
-</audio>
 
-[ellaberintoR.mp3](/ellaberintor.mp3) reconstruction of my original midi demo, using vintage Casio GZ-50M sounds, Logic 4 file updated to version 9 (!) (5'15, 7.1 MB)
+<audio controls>
+  <source src="/catalog/ellaberintor.mp3"/>
+</audio>
+[ellaberintor.mp3](pathname:///catalog/ellaberintor.mp3)\
+Reconstruction of my original midi demo, using vintage Casio GZ-50M sounds, Logic 4 file updated to version 9 (!) (5'15, 7.1 MB)
+
+
 
 ### Composer's note
 

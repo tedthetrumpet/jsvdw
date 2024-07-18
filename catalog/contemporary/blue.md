@@ -11,10 +11,11 @@ tags:
 ## 8/1/04 for cor anglais, violin and bass clarinet
 
 <audio controls>
-  <source src="/thebluebox.mp3"/>
+  <source src="/catalog/thebluebox.mp3"/>
 </audio>
 
-Recording by Symposia 26/2/04 .mp3, 9'05, 8.3 Mb)
+[space_gamelan.mp3](pathname:///catalog/thebluebox.mp3) – Recording by Symposia 26/2/04 .mp3, 9'05, 8.3 Mb
+
 
 ### Composer's note
 

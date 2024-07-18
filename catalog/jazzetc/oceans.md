@@ -27,11 +27,6 @@ Duration ~15'
 ### Midi demo
 
 <audio controls>
-  <source src="/ninetymilebeach.mp3"/>
+  <source src="/catalog/ninetymilebeach.mp3"/>
 </audio>
-
-
-[ninetymilebeach.mp3](/ninetymilebeach.mp3) (1'17, 1.5 MB)
-
-
-
+[ninetymilebeach.mp3](pathname:///catalog/ninetymilebeach.mp3) ) (1'17, 1.5 MB)

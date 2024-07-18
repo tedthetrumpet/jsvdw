@@ -18,19 +18,18 @@ Duration 4'33
 ## Recordings
 
 <audio controls>
-  <source src="/adrift_afloat.mp3"/>
+  <source src="/catalog/adrift_afloat.mp3"/>
 </audio>
-[adrift\_afloat.mp3](/adrift_afloat.mp3) (4'59, 5.7 MB) as performed by Gamelan Naga Mas in their performance 'Float Sound Objects', with added rainforest sounds
+[adrift\_afloat.mp3](pathname:///catalog/adrift_afloat.mp3) (4'59, 5.7 MB) as performed by Gamelan Naga Mas in their performance 'Float Sound Objects', with added rainforest sounds
 
 <audio controls>
-  <source src="/trib_simul1.mp3"/>
+  <source src="/catalog/trib_simul1.mp3"/>
 </audio>
 
 <audio controls>
-  <source src="/trib_simul2.mp3"/>
+  <source src="/catalog/trib_simul2.mp3"/>
 </audio>
-[trib\_simul1.mp3](/trib_simul1.mp3) and [trib\_simul2.mp3](/trib_simul2.mp3) are both extracts from [Tribulation](../catalog/tribulation "Tribulation"), in which Adrift & Afloat can be heard alongside other material
-
+[trib\_simul1.mp3](pathname:///catalog/trib_simul1.mp3) and [trib\_simul2.mp3](pathname:///catalog/trib_simul2.mp3) are both extracts from [Tribulation](../catalog/tribulation "Tribulation"), in which Adrift & Afloat can be heard alongside other material
 
 
 

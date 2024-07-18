@@ -13,21 +13,19 @@ tags:
 ### Midi demo
 
 <audio controls>
-  <source src="/how-two-minds-can-know-one-thing-mvt1.mp3"/>
+  <source src="/catalog/how-two-minds-can-know-one-thing-mvt1.mp3"/>
 </audio>
-[how-two-minds-can-know-one-thing-mvt1.mp3](/how-two-minds-can-know-one-thing-mvt1.mp3) (7'59, 9.6 MB)
+[how-two-minds-can-know-one-thing-mvt1.mp3](pathname:///how-two-minds-can-know-one-thing-mvt1.mp3) (7'59, 9.6 MB)
 
 <audio controls>
-  <source src="/how-two-minds-can-know-one-thing-mvt2.mp3"/>
+  <source src="/catalog/how-two-minds-can-know-one-thing-mvt2.mp3"/>
 </audio>
-[how-two-minds-can-know-one-thing-mvt2.mp3](/how-two-minds-can-know-one-thing-mvt2.mp3) (5'25, 6.5 MB)
+[how-two-minds-can-know-one-thing-mvt2.mp3](pathname:///how-two-minds-can-know-one-thing-mvt2.mp3) (5'25, 6.5 MB)
 
 <audio controls>
-  <source src="/how-two-minds-can-know-one-thing-mvt3.mp3"/>
+  <source src="/catalog/how-two-minds-can-know-one-thing-mvt3.mp3"/>
 </audio>
-[how-two-minds-can-know-one-thing-mvt3.mp3](/how-two-minds-can-know-one-thing-mvt3.mp3) (8'11, 10.2 MB)
-
-
+[how-two-minds-can-know-one-thing-mvt3.mp3](pathname:///how-two-minds-can-know-one-thing-mvt3.mp3) (8'11, 10.2 MB)
 
 
 ### Composer's note

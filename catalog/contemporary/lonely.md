@@ -11,20 +11,21 @@ tags:
 Excellent recordings of the first performance;
 
 <audio controls>
-  <source src="/ruchenitsa.mp3"/>
+  <source src="/catalog//ruchenitsa.mp3"/>
 </audio>
 
-[ruchenitsa.mp3](/ruchenitsa.mp3) (2'23, 2.2Mb) 
-
-<audio controls>
-  <source src="/lonelyw.mp3"/>
-</audio>
-[lonelyw.mp3](/lonelyw.mp3) (2'36, 2.4Mb)
+[ruchenitsa.mp3](pathname:///catalog/ruchenitsa.mp3) (2'23, 2.2Mb) 
 
 <audio controls>
-  <source src="/paidushka.mp3"/>
+  <source src="/catalog//lonelyw.mp3"/>
 </audio>
-[paidushka.mp3](/paidushka.mp3) (3'35, 3.3Mb)
+[lonelyw.mp3](pathname:///catalog/lonelyw.mp3) (2'36, 2.4Mb)
+
+<audio controls>
+  <source src="/catalog//paidushka.mp3"/>
+</audio>
+[paidushka.mp3](pathname:///catalog/paidushka.mp3) (3'35, 3.3Mb)
+
 
 ### Composer's note
 

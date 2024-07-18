@@ -8,9 +8,10 @@ tags:
 ## 6/4/00 for ensemble
 
 <audio controls>
-  <source src="/tears.mp3"/>
+  <source src="/catalog/tears.mp3"/>
 </audio>
-[tears.mp3](/tears.mp3) (7'25, 3.5 MB)
+
+[tears.mp3](pathname:///catalog/tears.mp3) (7'25, 3.5 MB)
 
 
 ### Composer's note

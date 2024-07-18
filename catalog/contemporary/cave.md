@@ -28,9 +28,9 @@ Duration ~3'
 ### Recording
 
 <audio controls>
-  <source src="/the-cave-of-destiny.mp3"/>
+  <source src="/catalog/the-cave-of-destiny.mp3"/>
 </audio>
-
+[the-cave-of-destiny.mp3](pathname:///catalog/the-cave-of-destiny.mp3)
 
 ### Score
 

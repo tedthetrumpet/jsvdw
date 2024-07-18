@@ -15,6 +15,6 @@ Duration ~4'
 ### Recording (extract)
 
 <audio controls>
-  <source src="/sheneb_ex.mp3"/>
+  <source src="/catalog/sheneb_ex.mp3"/>
 </audio>
-[sheneb\_ex.mp3](/sheneb_ex.mp3) (1'30, 884 KB)
+[sheneb_ex.mp3](pathname:///catalog/sheneb_ex.mp3) (1'30, 884 KB)

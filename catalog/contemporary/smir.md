@@ -13,9 +13,11 @@ tags:
 ### Recording
 
 <audio controls>
-  <source src="/smirbanff.mp3"/>
+  <source src="/catalog/smirbanff.mp3"/>
 </audio>
-[smirbanff.mp3](/smirbanff.mp3) (6.3MB; duration 4'33)
+
+[smirbanff.mp3](pathname:///catalog/smirbanff.mp3) (6.3MB; duration 4'33)
+
 
 - **Floor Wittink** soprano saxophone
 - **Emma Ferrand** cello

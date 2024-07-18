@@ -10,10 +10,11 @@ tags:
 ## 25/8/01 for flugelhorn and marimba
 
 <audio controls>
-  <source src="/straal.mp3"/>
+  <source src="/catalog/straal.mp3"/>
 </audio>
 
-[straal.mp3](/straal.mp3) (6'40, 6.2 MB)
+[straal.mp3](pathname:///catalog/straal.mp3) (6'40, 6.2 MB)
+
 
 ### About
 

@@ -15,9 +15,12 @@ Duration ~6'
 ### Recording
 
 <audio controls>
-  <source src="/gamelunk-hexham-live.mp3"/>
+  <source src="/catalog/gamelunk-hexham-live.mp3"/>
 </audio>
-[gamelunk-hexham-live.mp3](gamelunk-hexham-live.mp3) (6'18, 7.2 MB)
+
+[gamelunk-hexham-live.mp3](pathname:///catalog/gamelunk-hexham-live.mp3) (6'18, 7.2 MB)
+
+
 
 ### Score
 

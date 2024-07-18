@@ -10,9 +10,10 @@ tags:
 ## 18/7/04 for four saxophones
 
 <audio controls>
-  <source src="/de_stem-v2.mp3"/>
+  <source src="/catalog/de_stem-v2.mp3"/>
 </audio>
 
+[de_stem-v2.mp3](pathname:///catalog/de_stem-v2.mp3)\
 Esquire Saxophone Quartet; revised version (.mp3, 7'18, 10Mb)
 
 ### About

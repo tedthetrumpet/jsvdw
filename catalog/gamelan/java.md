@@ -34,9 +34,9 @@ Over the top of this is a melody on flute & sarons, and a written-out flute solo
 ### Midi demo
 
 <audio controls>
-  <source src="/java.mp3"/>
+  <source src="/catalog/java.mp3"/>
 </audio>
-[java.mp3](/java.mp3) (4'00, 68 KB)
+[java.mp3](pathname:///catalog/java.mp3) (4'00, 68 KB)
 
 ### Notes
 

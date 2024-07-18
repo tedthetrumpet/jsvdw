@@ -12,9 +12,15 @@ tags:
 ---
 ## 20/6/03 for trumpet, clarinet (doubling bass clarinet), piano, contrabass, percussion & space gamelan
 
+<!-- works, plays unhashed file :) -->
 <audio controls>
-  <source src="/space_gamelan.mp3"/>
+  <source src="/catalog/space_gamelan.mp3"/>
 </audio>
+
+<!-- unhashed link to file -->
+[space_gamelan.mp3](pathname:///catalog/space_gamelan.mp3)
+
+
 
 The 'space gamelan' part, which appears on CD near the end of the piece.
 

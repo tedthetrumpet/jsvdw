@@ -25,9 +25,13 @@ The piece also forms a trailer of sorts for a forthcoming project provisionally 
 ### Audio
 
 <audio controls>
-  <source src="/whirlies-d-ex.mp3"/>
+  <source src="/catalog/whirlies-d-ex.mp3"/>
 </audio>
+
+[whirlies-d-ex.mp3](pathname:///catalog/whirlies-d-ex.mp3)\
 (0'30 extract, midi strings, real electro-junk)
+
+
 
 
 ### Reviews

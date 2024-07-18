@@ -30,8 +30,10 @@ The winds have distorted classical gestures, further munged by having the transp
 ### Midi demo
 
 <audio controls>
-  <source src="/joined_demo.mp3"/>
+  <source src="/catalog/joined_demo.mp3"/>
 </audio>
+[joined_demo.mp3](pathname:///catalog/joined_demo.mp3)
+
 
 ### Score
 

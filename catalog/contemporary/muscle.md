@@ -18,12 +18,13 @@ And how good it feels afterwards!
 ### Demo
 
 <audio controls>
-  <source src="/muscletonedemo.mp3"/>
+  <source src="/catalog/muscletonedemo.mp3"/>
 </audio>
 
-[MuscleToneDemo.mp3](/muscletonedemo.mp3) (5'47, 4 MB)
+[MuscleToneDemo.mp3](pathname:///catalog/muscletonedemo.mp3) (5'47, 4 MB)
 
-#### Background
+
+### Background
 
 Written for Ephyra: Charlotte Bradburn (sax) and Adam Caird (piano)
 

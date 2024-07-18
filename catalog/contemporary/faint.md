@@ -15,10 +15,9 @@ tags:
 ### Midi demo
 
 <audio controls>
-  <source src="/faint.mp3"/>
+  <source src="/catalog/faint.mp3"/>
 </audio>
-[faint.mp3](/faint.mp3) (7'28, 8.5 MB)
-
+[faint.mp3](pathname:///catalog/faint.mp3) (7'28, 8.5 MB)
 
 ### Composer's note
 

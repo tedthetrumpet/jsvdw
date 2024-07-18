@@ -8,11 +8,11 @@ tags:
 
 ## 15/3/02 for four voices
 
-
 <audio controls>
-  <source src="/hanc.mp3"/>
+  <source src="/catalog/hanc.mp3"/>
 </audio>
-[hanc.mp3](/hanc.mp3) (3'16, 3.0Mb)
+[hanc.mp3](pathname:///catalog/hanc.mp3) (3'16, 3.0Mb)
+
 
 #### Composer's note
 

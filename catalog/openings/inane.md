@@ -33,11 +33,12 @@ Duration 4 days 33 minutes
 ### Recordings
 
 <audio controls>
-  <source src="/teufelwalzer-sch.mp3"/>
+  <source src="/catalog/teufelwalzer-sch.mp3"/>
 </audio>
-[teufelwalzer-sch.mp3](/teufelwalzer-sch.mp3) A version of Teufelwalzer for four bassoons, from Schaduwee (1'55, 2.2 MB)
+[teufelwalzer-sch.mp3](pathname:///teufelwalzer-sch.mp3) A version of Teufelwalzer for four bassoons, from Schaduwee (1'55, 2.2 MB)
 
 <audio controls>
-  <source src="/scam_inanities.mp3"/>
+  <source src="/catalog/scam_inanities.mp3"/>
 </audio>
-[scam\_inanities.mp3](/scam_inanities.mp3) An extract from The Society for Classical and Authentic Music; simultaneous versions of Jagdmazurka, Teufelwalzer and Stupid Tune, with overlaps between the bassoon and oboe versions, before being requested by the conductor to efface themselves (4'00, 4.6 MB)
+[scam\_inanities.mp3](pathname:///scam_inanities.mp3) An extract from The Society for Classical and Authentic Music; simultaneous versions of Jagdmazurka, Teufelwalzer and Stupid Tune, with overlaps between the bassoon and oboe versions, before being requested by the conductor to efface themselves (4'00, 4.6 MB)
+

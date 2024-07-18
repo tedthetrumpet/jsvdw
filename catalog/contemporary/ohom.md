@@ -24,7 +24,7 @@ Duration ~4'15
 Demo recording using midi flute:
 
 <audio controls>
-  <source src="/ohomdemo.mp3"/>
+  <source src="/catalog/ohomdemo.mp3"/>
 </audio>
 
-[ohomdemo.mp3](/ohomdemo.mp3) (4'15, 4.1 MB)
+[ohomdemo.mp3](pathname:///catalog/ohomdemo.mp3) (4'15, 4.1 MB)

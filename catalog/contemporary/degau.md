@@ -28,8 +28,8 @@ Duration ~1'30
 ### Recording
 
 <audio controls>
-  <source src="/degaussing.mp3"/>
+  <source src="/catalog/degaussing.mp3"/>
 </audio>
-[degaussing.mp3](/degaussing.mp3) (1'48, 1.78 MB)
+[degaussing.mp3](pathname:///catalog/degaussing.mp3) (1'48, 1.78 MB)
 
 ![](/img/degau.png "degau")

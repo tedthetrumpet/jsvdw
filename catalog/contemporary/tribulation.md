@@ -9,10 +9,12 @@ tags:
 ## 12/1/06 for Ensemble Thing
 
 <audio controls>
-  <source src="/tribulation.mp3"/>
+  <source src="/catalog/tribulation.mp3"/>
 </audio>
 
+[tribulation.mp3](pathname:///catalog/tribulation.mp3)\
 First performance (.mp3, 8'57, 10.5Mb)
+
 
 ### Notes
 

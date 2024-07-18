@@ -14,10 +14,11 @@ tag:
 ### Recording
 
 <audio controls>
-  <source src="/sunbird1.mp3"/>
+  <source src="/catalog/sunbird1.mp3"/>
 </audio>
 
-[sunbird1.mp3](/sunbird1.mp3) (7'12, 3.3 MB)
+[sunbird1.mp3](pathname:///catalog/sunbird1.mp3) (7'12, 3.3 MB)
+
 
 ### Composer's note
 
