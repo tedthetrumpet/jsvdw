@@ -7,11 +7,9 @@ tags:
 
 [ARTMUSFAIR](http://www.artmusfair.eu/2009/) is… well, I guess you could describe it as a trade fair for contemporary music (stop giggling) which this year is happening in Glasgow, Thur 29 Oct to Sun 1 Nov. I've got two things confirmed and a third in the pipeline.
 
-:::warning
-fix blog link
-:::
+First up is a new piece certain assumptions, which was accepted in a call for scores by the Red Note Ensemble. It's for alto flute, horn, marimba, cello and 'tape', with the latter part composed using a patch I made at the pd bootcamp in Wales [earlier this year](/blog/2009/09/04/pd-bootcamp-at-the-rwcmd). Here's the 'programme note';
 
-First up is a new piece certain assumptions, which was accepted in a call for scores by the Red Note Ensemble. It's for alto flute, horn, marimba, cello and 'tape', with the latter part composed using a patch I made at the pd bootcamp in Wales [earlier this year](http://jsimonvanderwalt.blogspot.com/2009/09/pd-bootcamp-at-rwcmd.html). Here's the 'programme note';
+
 
 > 'When you go to the doctor you assume that he will care for you in his normal compassionate way, ultimately finding the solution to your ailments. Why else would you go?
 > 

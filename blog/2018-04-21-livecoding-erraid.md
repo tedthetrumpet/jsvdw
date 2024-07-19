@@ -7,11 +7,8 @@ tags:
 
 ![](https://live.staticflickr.com/2833/9600233872_2ae5186943.jpg)
 
-:::warning
-rave the space link needs fixing
-:::
 
-On a number of occasions I have used [sounds](https://soundcloud.com/tedthetrumpet/areyousamplingit) [collected](https://soundcloud.com/tedthetrumpet/stadtrad) at a [particular location](https://jsimonvanderwalt.com/2016/10/06/rave-the-space/) as a coherent set of resources for a livecoded set. For the last week I've been in retreat on with the [community on the isle of Erraid](http://www.erraid.com/), which has been a welcome break from the city!
+On a number of occasions I have used [sounds](https://soundcloud.com/tedthetrumpet/areyousamplingit) [collected](https://soundcloud.com/tedthetrumpet/stadtrad) at a [particular location](/blog/2016/10/06/rave-the-space/) as a coherent set of resources for a livecoded set. For the last week I've been in retreat on with the [community on the isle of Erraid](http://www.erraid.com/), which has been a welcome break from the city!
 
 One of the features of the island is the 'observatory'. This is a circular tin structure, about two meters across by three high: a restored remnant of the building of the Dubh Artach lighthouse that took place there between 1867 and 1872.
 

@@ -14,8 +14,6 @@ So we've got Davur Magnussen, the brilliant new young principal trombone of the 
 
 ![](/blog/exercise_ex.png)
 
-Draft version of the score [available](/blog/exercise_d3.pdf) as pdf.
+Draft version of the score [available](pathname:///blog/exercise_d3.pdf) as pdf.
 
-:::warning
-very confusing issue here with linking to pdf: now appears as one of these 'assets'??
-:::
+

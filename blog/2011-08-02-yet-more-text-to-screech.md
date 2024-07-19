@@ -17,4 +17,6 @@ I've often used this kind of thing in my own work, and I've coined my own term f
 links to other blog posts to update
 :::
 
-I've now started work on another such project. This will be a performance piece, where I will be typing text live: I've done work [along](http://jsimonvanderwalt.com/2008/12/04/more-text-to-screech/ "http://jsimonvanderwalt.com/2008/12/04/more-text-to-screech/") [these](http://jsimonvanderwalt.com/2008/12/16/loudcoding/ "http://jsimonvanderwalt.com/2008/12/16/loudcoding/") [lines](http://jsimonvanderwalt.com/2009/08/29/text-to-screech-work-in-progress/ "http://jsimonvanderwalt.com/2009/08/29/text-to-screech-work-in-progress/") before, but the new twist will be to try to find away to add extra processing to the speech synthesis live, including perhaps sampling and looping. There are some technical problems with doing this on the mac, however… which I'll make the subject of another post.
+I've now started work on another such project. This will be a performance piece, where I will be typing text live: I've done work [along](/blog/2008/12/04/more-text-to-screech) [these](/blog/2008/12/16/loudcoding) [lines](/blog/2009/08/29/text-to-screech-work-in-progress) before, but the new twist will be to try to find away to add extra processing to the speech synthesis live, including perhaps sampling and looping. There are some technical problems with doing this on the mac, however… which I'll make the subject of another post.
+
+

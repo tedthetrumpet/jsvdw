@@ -1,6 +1,5 @@
 
 priorities
-  * resolve warnings
   * update assets that should not be hashed – probably done
     - why is that barewiresflyer3web.png in the root?
   * maybe do some work on over-large headings

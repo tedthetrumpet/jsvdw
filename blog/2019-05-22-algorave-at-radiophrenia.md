@@ -12,7 +12,7 @@ This week I'm taking my algorave work in a new direction. In collaboration with 
 slicing techniques links needs fixing
 :::
 
-The idea for the show is: if the last remaining creative decisions in broadcast radio were entirely automatic, would anyone notice? Bill has been experimenting with algorithmically generated text and chatbots for the spoken part of the show. For my part, I'm going to be creating cut-up mashups using the [slicing techniques](https://jsimonvanderwalt.com/2016/10/06/rave-the-space/) I've been [developing](https://www.youtube.com/watch?v=wX51frpG0TY) in SuperCollider.
+The idea for the show is: if the last remaining creative decisions in broadcast radio were entirely automatic, would anyone notice? Bill has been experimenting with algorithmically generated text and chatbots for the spoken part of the show. For my part, I'm going to be creating cut-up mashups using the [slicing techniques](/blog/2016/10/06/rave-the-space/) I've been [developing](https://www.youtube.com/watch?v=wX51frpG0TY) in SuperCollider.
 
 In [previous work along these lines](https://soundcloud.com/tedthetrumpet/twaytee), I've always used source material that was either explicitly open source, or, at least, grey-area material that I was unlikely to be sued for, like old TV themes and midi module demo songs.
 

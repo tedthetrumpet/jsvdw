@@ -17,6 +17,6 @@ Over the last two days we've also seen some of the work of one of the graduates 
 
 I'll (maybe) be performing on the patch above. For those who are interested, this uses nothing which is not in Pd-extended (I hope!). The guts of the sound are four Karplus-Strong 'pluck' synths, with the delay lengths changing at random to produce glissando effects. These gestures are fed into an instance of freeverb, where the reverb tail can be frozen; while the tail is frozen, a pitch shifter patch is used to move this sound around in interesting ways. The klang gestures are either triggered manually, or by a randomised metronome, which can be set to the rather ridiculous value of 25 ms to produce an insane cascade of stringy sounds.
 
-:::warning
-confusing reference to 'the patch above'? what patch?
-:::
+### Update 2024
+Confusing reference to 'the patch' above? What patch? Presumably a puredata patch: not sure if have that any more!
+
