@@ -36,3 +36,10 @@ And if this doesn’t sound special enough the sounds of the laptop are live gen
 First performance by [Silviya Mihaylova](http://silviyamihaylova.com) at the Royal Conservatoire of Scotland 12 March 2012. Second performance by Silviya at the Numti Festival, Plovdiv, Bulgaria, 13 July 2012.
 
 Duration ~12'
+
+### Score and patches
+
+[The_Seventh_Voyage.pdf](pathname:///catalog/The_Seventh_Voyage.pdf)
+
+[The_Seventh_Voyage_puredata_patches.zip](pathname:///catalog/The_Seventh_Voyage_puredata_patches.zip)
+

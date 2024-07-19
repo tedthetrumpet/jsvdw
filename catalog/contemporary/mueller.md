@@ -32,9 +32,11 @@ Duration ~4'33
 
 Michael Tumelty, The Herald 25/4/12
 
-### Score
+### Score and patches
 
 [dr-mueller.pdf](pathname:///catalog/dr-mueller.pdf)
+
+[Dr_Mueller_Pd_patch.zip](pathname:///catalog/Dr_Mueller_Pd_patch.zip)
 
 
 ![](../../static/img//mueller1.png "Dr Mueller - clarinet part")

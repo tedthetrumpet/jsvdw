@@ -5,6 +5,7 @@ sidebar_position: 104
 tags: 
   - strings
   - electrojunk
+  - phd
 ---
 
 ## 17/11/08 for strings and electro-junk improviser
@@ -46,3 +47,7 @@ Commissioned by the Scottish Philharmonic Orchestra and first performed by them 
 ![Setup for 'The Whirlies'](../../static/img/whirlies-setup.jpg "whirlies-setup")
 
 Duration ~10'
+
+### Score
+
+[The_Whirlies.pdf](pathname:///catalog/The_Whirlies.pdf)
