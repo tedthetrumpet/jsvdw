@@ -1,11 +1,8 @@
 
 priorities
-  * update assets that should not be hashed – probably done
-    - why is that barewiresflyer3web.png in the root?
+  * rogue docusaurus image somewhere?
   * maybe do some work on over-large headings
   * do _actual updates_ particularly missing works in catalog (many)
-  * have a go at pointing siteground > vercel
-    - aha! use tedthetrumpet.com as a testbed for that
   * rework smallish 'hero' images in catalog
   * many, many scores of existing pieces missing from catalog :)
 

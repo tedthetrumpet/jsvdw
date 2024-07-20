@@ -1,5 +1,5 @@
 ---
-title: Repairing a Ketipung
+title: Repairing a ketipung
 date: 2029-08-24 # remember to update and also update file name
 tags: 
   - gamelan
