@@ -47,3 +47,31 @@ broke front page on linux
 .navbar__title, .navbar__item {
   font-family: Montserrat, system-ui
 }
+
+/*
+two column flex for front page
+*/
+
+.row2 {
+/*   background-color: red; */
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.columns {
+  /* background-color: green; */
+  flex: 50%;
+  padding: 1vw;
+
+}
+
+@media (max-width: 996px) {
+  .columns {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+h2.columns {
+  color: red;
+}

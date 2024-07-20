@@ -8,9 +8,6 @@ tags:
 
 This week I'm taking my algorave work in a new direction. In collaboration with [Bill Whitmer](http://www.donkeyscratch.com/), we are going to be presenting a half-hour show called 'Radio Automata Live in the Studio' as part of [Radiophrenia](https://radiophrenia.scot/), a temporary art radio station broadcasting from the CCA in Glasgow.
 
-:::warning
-slicing techniques links needs fixing
-:::
 
 The idea for the show is: if the last remaining creative decisions in broadcast radio were entirely automatic, would anyone notice? Bill has been experimenting with algorithmically generated text and chatbots for the spoken part of the show. For my part, I'm going to be creating cut-up mashups using the [slicing techniques](/blog/2016/10/06/rave-the-space/) I've been [developing](https://www.youtube.com/watch?v=wX51frpG0TY) in SuperCollider.
 

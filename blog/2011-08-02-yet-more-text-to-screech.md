@@ -13,10 +13,6 @@ I've often used this kind of thing in my own work, and I've coined my own term f
 
 <iframe width="100%" height="125" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/4559375&color=%23ff5500&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-:::warning
-links to other blog posts to update
-:::
-
 I've now started work on another such project. This will be a performance piece, where I will be typing text live: I've done work [along](/blog/2008/12/04/more-text-to-screech) [these](/blog/2008/12/16/loudcoding) [lines](/blog/2009/08/29/text-to-screech-work-in-progress) before, but the new twist will be to try to find away to add extra processing to the speech synthesis live, including perhaps sampling and looping. There are some technical problems with doing this on the mac, however… which I'll make the subject of another post.
 
 

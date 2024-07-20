@@ -21,3 +21,7 @@ A study towards, or perhaps a tangent to, [The Other Other Hand](tooh). It is co
 Performed by **The Scottish Flute Trio** (Laura Bailie, Janet Larsson and Ruth Morley) with the clarinet choir of the RSAMD operating under the guise of 'The Society for High Art Music'; Abraham González Chávez and Amy Strachan (Eb clarinets), Kim Stephen (Leader), Cristina Montesdeoca Suárez, Matthew Rogers, Tom Logan, Rebecca Humphreys, Lisa Duggan (Bb clarinets), Ursula Was and Calum Robertson (A clarinets), Fraser Antony Max Langton (basset horn) and Samuel Hernández Ávila and Yla Garvie (bass clarinets). RSAMD 8/11/2007.
 
 Duration ~13'
+
+### Score and parts
+
+[in-the-back-of-my-mind--score-and-parts.pdf](pathname:///catalog/in-the-back-of-my-mind--score-and-parts.pdf)
