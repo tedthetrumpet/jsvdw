@@ -5,7 +5,7 @@ tags:
   - gamelan
 # post shows when developing
 # but does not build
-draft: false
+draft: true
 
 ---
 
