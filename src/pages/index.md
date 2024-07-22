@@ -2,6 +2,7 @@
 title: J Simon van der Walt
 date: 2024-07-20
 hide_table_of_contents: true
+description: Composer, Performer, Teacher
 ---
 
 <div
