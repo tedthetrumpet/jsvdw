@@ -11,6 +11,7 @@ const config = {
   title: 'J Simon van der Walt',
   tagline: 'Composer, Performer, Teacher',
   /* favicon: 'img/favicon.ico', */
+ 
 
   // Set the production url of your site here
   url: 'https://jsimonvanderwalt.com',
@@ -69,6 +70,7 @@ const config = {
   plugins: [require.resolve('docusaurus-lunr-search')],
 
   themeConfig:
+  
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
@@ -150,6 +152,9 @@ const config = {
         darkTheme: prismThemes.dracula,
         additionalLanguages: ['supercollider'],
       },
+      metadata: [
+        { name: 'google-site-verification', content: '_9tW0SVXHuABejBq5ILYkbGa6NPkBHfR96aGC9LOg0Q' },
+      ],
     }),
 };
 

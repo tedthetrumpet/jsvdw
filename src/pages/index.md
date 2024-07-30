@@ -6,6 +6,9 @@ description: Composer, Performer, Teacher
 image: /img/jsimonvanderwalt3.webp
 ---
 
+<!-- import styles from './index.module.css' -->
+
+
 <div
 style={{
           position: 'relative',
