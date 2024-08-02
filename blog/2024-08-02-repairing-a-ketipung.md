@@ -1,11 +1,11 @@
 ---
 title: Repairing a ketipung
-date: 2029-08-24 # remember to update and also update file name
+date: 2024-08-02 # remember to update and also update file name
 tags: 
   - gamelan
 # post shows when developing
 # but does not build
-draft: true
+# draft: true
 
 ---
 
