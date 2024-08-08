@@ -76,3 +76,6 @@ h2.columns {
   color: red;
 }
 
+.container:has(.HomeWrapper) {
+  margin-top: 0rem !important;
+}
