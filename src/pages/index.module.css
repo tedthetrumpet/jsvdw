@@ -3,24 +3,7 @@
  * and scoped locally.
  */
 
-/* this still not working */
-
-
-.margin-vert--lg {
-    margin-top: 0rem !important;
-    /* that's that top margin */
-}
-
-
-/* 
-
-.container{
-    margin-top: 0 !important
-} 
-
- */
-
-
+/* not using any of this, just tried out for testing */
 /* this works */
 
 /* 

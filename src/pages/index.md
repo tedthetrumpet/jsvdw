@@ -4,11 +4,7 @@ date: 2024-07-20
 hide_table_of_contents: true
 description: Composer, Performer, Teacher
 image: /img/jsimonvanderwalt3.webp
-# wrapperClassName: HomeWrapper
 ---
-
-<!-- import styles from './index.module.css' -->
-
 
 <div     className="HomeWrapper"
 style={{
