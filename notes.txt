@@ -68,6 +68,11 @@ Browser
   http://localhost:3000/ to check edits
 Gotchas to watch for
   yaml front matter errors
+Terminal
+  npm run build
+  npm run serve to check
+Use GitHub desktop to push
+Check vercel deployment
 
   
 

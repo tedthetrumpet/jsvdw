@@ -4,6 +4,7 @@ sidebar_position: 2
 
 # Contemporary
 
+- [El laberinto](/catalog/contemporary/laberinto "El laberinto") for voice, bass clarinet and general MIDI (score, midi file, demo)
 - [The Black Rain](/catalog/contemporary/black "The Black Rain") for amplified string quintet with live computer processing (score)
 - [The Seventh Voyage](/catalog/contemporary/voyage "The Seventh Voyage") for piano and laptop (video)
 - [Dr Mueller? Dr Mueller!? Oh, boy :(](/catalog/contemporary/mueller "Dr Mueller? Dr Mueller!? Oh, boy :(") for clarinet and acoustic laptop (score, recording)
