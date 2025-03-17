@@ -22,6 +22,8 @@ _Ha!_, according to Chamber's dictionary can mean 'surprise, joy, exultation, di
 
 First performance by the **Goldberg Ensemble** Saturday February 15 2002 in Manchester (recording above), with a second performance in Wolverhampton on Thursday February 28.
 
+Revived perfomance Royal Conservatoire of Scotland Strings Festival, Tuesday 11 March 2025, conducted by Donnie Deacon.
+
 Duration 12'30
 
 ### Score
