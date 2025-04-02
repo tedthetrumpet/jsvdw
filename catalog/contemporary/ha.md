@@ -33,3 +33,7 @@ Duration 12'30
 [Ha 2.8.1 score](pathname:///catalog/ha-2.8.1-score.pdf "Ha 2.8.1 score") (.pdf rev 2023/07/05)
 
 ![extract from the score to Ha!](/img/ha.png "Ha!")
+
+### Archive
+
+https://archive.org/details/Ha_JSvdW_2025-03-11
