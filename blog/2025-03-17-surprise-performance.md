@@ -19,4 +19,4 @@ A couple of weeks ago, I got several reminders from various string students abou
 
 So, yes: as a total surprise to me, they played 'Ha!' as the last item on the programme. I was completely taken aback, and, indeed, very moved, not having heard the piece since the first performance 23 years ago.
 
-Hoping to perhaps get a recording of the recent performance up here soon.
+_Update 2025-04-02_ recording is now up https://youtu.be/MHGuWfu2u-s

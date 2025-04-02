@@ -73,6 +73,7 @@ Terminal
   npm run serve to check
 Use GitHub desktop to push
 Check vercel deployment
+  the build actually happens there, local build not deployed :)
 
   
 

@@ -8,10 +8,7 @@ tags:
 
 ## 17/8/98 for strings
 
-<audio controls>
-  <source src="/catalog/ha.mp3"/>
-</audio>
-[ha.mp3](pathname:///catalog/ha.mp3) (13'13, 15 MB)
+<iframe class="youtube-video" src="https://www.youtube.com/embed/MHGuWfu2u-s/" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
 
 ### Composer's note
@@ -22,7 +19,12 @@ _Ha!_, according to Chamber's dictionary can mean 'surprise, joy, exultation, di
 
 First performance by the **Goldberg Ensemble** Saturday February 15 2002 in Manchester (recording above), with a second performance in Wolverhampton on Thursday February 28.
 
-Revived perfomance Royal Conservatoire of Scotland Strings Festival, Tuesday 11 March 2025, conducted by Donnie Deacon.
+<audio controls>
+  <source src="/catalog/ha.mp3"/>
+</audio>
+[ha.mp3 recording by Goldberg Ensemble 2002](pathname:///catalog/ha.mp3) (13'13, 15 MB)
+
+Revived perfomance (above) Royal Conservatoire of Scotland Strings Festival, Tuesday 11 March 2025.
 
 Duration 12'30
 
