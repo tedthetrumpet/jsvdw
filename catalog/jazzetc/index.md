@@ -14,4 +14,4 @@ sidebar_position: 4
 - [Changing Blue](/catalog/jazzetc/chablu "Changing Blue") for jazz big band
 - [Bug Me](/catalog/jazzetc/bugme "Bug Me") for big band & vibraphone
 - [Samba Reggae](/catalog/jazzetc/sambregg "Samba Reggae") for jazz wind band & samba drums
-- [Space Age Puppets and Masks](/catalog/jazzetc/spaceage "Space Age Puppets and Masks") for jazz wind band & samba drums
+- [Space Age Puppets and Masks](/catalog/jazzetc/spaceage "Space Age Puppets and Masks") for jazz big band (score, demo)
