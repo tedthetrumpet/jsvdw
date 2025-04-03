@@ -45,3 +45,8 @@ Exited about [this](https://newmusicscotland.co.uk/awards2023/)
 // vimeo
 
 <iframe src="https://player.vimeo.com/video/13710297?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="In the back of my mind"></iframe>
+
+
+// link to catalog
+
+'[Ha!](/catalog/contemporary/ha)'
