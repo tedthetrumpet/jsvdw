@@ -7,7 +7,7 @@ tags:
   - jazz
 
 ---
-One of the earliest compositions of mine that I have documented on this site is [How Two Minds Can Know One Thing](/catalog/contemporary/wominds).
+One of the earliest compositions of mine that I have documented on this site is [How Two Minds Can Know One Thing](/catalog/contemporary/twominds).
 
 I wrote this the year after I finished my LLCM at Napier University. In retrospect I can see that, by taking on the writing of a three-movement piece for chamber orchestra, I was cementing my ambition to move beyond being a jazz trumpet player and arranger, in order to position myself as someone who was also a 'composer' of 'contemporary classical' music. In that sense, it was succesful: I even managed to get a Scottish Arts Council funding for the work.
 
@@ -23,7 +23,7 @@ Is like this:
 
 ![](pathname:///blog/dah-dit.png)
 
-Whereas a trumpet player used to playing in a classical context will give aim to play both notes equally. To go further: if I was playing that phrase I would stop the 'dit' note with my tongue: which is _always_ wrong in straight trumpet playing! So even if I mark the notes with a tenuto and a staccato, the straight player will _still_ not get it right.
+Whereas a trumpet player used to playing in a classical context will aim to play both notes equally. To go further: if I was playing that phrase I would stop the 'dit' note with my tongue: which is _always_ wrong in straight trumpet playing! So even if I mark the notes with a tenuto and a staccato, the straight player will _still_ not get it right.
 
 So, to make a long story short, I'm in the process of revisiting and revising How Two Minds, to make it more like the piece it was trying to be.
 
