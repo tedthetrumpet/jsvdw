@@ -15,9 +15,9 @@ I wrote this mainly on the guitar, and the harmony is kind of… not that jazzy.
 
 ### Demo
 
-Score not quite finished yet, need to put slurs in the sax parts and fix a few other things…
+Score not quite finished yet, some tidying up to do…
 
-[Is THIS cool?? – https://musescore.com/user/12368/scores/25691794](https://musescore.com/user/12368/scores/25691794)
+[Flappy Flappy Birds – https://musescore.com/user/12368/scores/26835268](https://musescore.com/user/12368/scores/26835268)
 
 
 Duration ~4'
