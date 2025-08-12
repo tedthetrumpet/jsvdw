@@ -10,11 +10,11 @@ This was originally a piece written for a collaboration between the Napier Unive
 
 ### Score
 
-[Space_Age_04a.pdf](pathname:///catalog/Space_Age_04a.pdf "Space Age score")
+[Space_Age_04b.pdf](pathname:///catalog/Space_Age_04b.pdf "Space Age score")
 
 ### Demo
 
-https://musescore.com/user/12368/scores/21714445
+https://musescore.com/user/12368/scores/25642774
 
 ### Notes
 

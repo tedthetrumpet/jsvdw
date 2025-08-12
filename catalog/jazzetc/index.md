@@ -4,8 +4,13 @@ sidebar_position: 4
 
 # Jazz, Latin, Traditional
 
+- [Flappy Flappy Birds](/catalog/jazzetc/flappy/ "Flappy Flappy Birds") for jazz big band
+- [Is THIS cool??](/catalog/jazzetc/isthiscool/ "Is THIS cool??") for jazz big band
+- [The Big Big Thing](/catalog/jazzetc/bigbig/ "The Big Big Thing") for jazz big band
+- [Cahuenga Building](/catalog/jazzetc/cahuenga/ "Cahuenga Building") for jazz big band
+- [Approaches 2](/catalog/jazzetc/approaches/ "Approaches 2") for jazz big band
 - [La Tumba del Fa](/catalog/jazzetc/tumba/ "La Tumba del Fa") for latin big band
-- [Between Two Oceans](/catalog/jazzetc/oceans/ "Between Two Oceans") for jazz ensemble
+- [Between Two Oceans](/catalog/jazzetc/oceans/ "Between Two Oceans") for jazz big band (scores, demos)
 - [El laberinto de mi mente](/catalog/jazzetc/mente "El laberinto de mi mente") for latin funk combo
 - [Los Muertos del Halfway House](/catalog/jazzetc/muertos "Los Muertos del Halfway House") for street band
 - [Putting Up Shelves](/catalog/jazzetc/shelves "Putting Up Shelves") recorded by the Tartan Amoebas
