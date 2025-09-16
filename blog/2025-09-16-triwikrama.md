@@ -6,7 +6,7 @@ tags:
   - trombone
 ---
 
-The [piece for slide brass](/blog/2025-09-10-slide-brass-poolewe.md) and gamelan now has a provisional title, 'Triwikrama', and a provisional programme note:
+The [piece for slide brass and gamelan](/blog/2025-09-10-slide-brass-poolewe.md) now has a provisional title, 'Triwikrama', and a provisional programme note:
 
 > In the Javanese _wayang purwa_ tradition, _triwikrama_ is the power by which a character is transformed into a giant.
 >
