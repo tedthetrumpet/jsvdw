@@ -50,3 +50,7 @@ Exited about [this](https://newmusicscotland.co.uk/awards2023/)
 // link to catalog
 
 '[Ha!](/catalog/contemporary/ha)'
+
+// link to another blog
+
+[interested in using](/blog/2025-08-05-gamelan-slide-brass.md)
