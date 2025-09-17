@@ -20,3 +20,6 @@ The [piece for slide brass and gamelan](/blog/2025-09-10-slide-brass-poolewe.md)
 >
 
 ![Brahala Ireng, Brahala Putih](pathname:///blog/FA.2007.39.1.3.-FA.2007.39.2.3-2414322586.jpg)
+
+---
+Update re Javanese pronunciations: Triwikråmå, Brahålå Irèng, Kresnå, Puntådéwå, Dåsåmukå.
