@@ -25,11 +25,11 @@ The original sketch for Copernicus, written on a plane to Venezuala:
 
 ### Scores and demos (musescore)
 
-All of these are perhaps not quite finished, a little bit of tidying up needed and decisions about who the soloists will be:
+Here are the first drafts of the Byres Road Big Band guitar feature versions:
 
-* [Good Hope](https://musescore.com/user/12368/scores/26833732)
+* [Good Hope](https://musescore.com/user/12368/scores/30522326)
 * [Copernicus](https://musescore.com/user/12368/scores/26833930)
-* [Ninety Mile Beach](https://musescore.com/user/12368/scores/26834020)
+* [Ninety Mile Beach](https://musescore.com/user/12368/scores/30475634)
 
 
 ### Notes
