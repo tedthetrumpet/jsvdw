@@ -23,3 +23,5 @@ For the gamelan players, again, it is simple to teach but not boring to play, wh
 **It sounds effective.** I think the audience are going to take to it. The overall impression of the piece will be dramatic and unusual without being weird for the sake of weird, and the story of the piece is a good match for how it sounds.
 
 We'll see! First public outing strongly pencilled in for 4 May 2026.
+
+
