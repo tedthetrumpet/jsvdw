@@ -3,9 +3,7 @@ title: Writing for strings
 date: 2026-01-12
 tags: 
   - news
-# post shows when developing
-# but does not build
-draft: true
+draft: false
 
 ---
 
