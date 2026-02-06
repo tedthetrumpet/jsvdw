@@ -79,3 +79,7 @@ h2.columns {
 .container:has(.HomeWrapper) {
   margin-top: 0rem !important;
 }
+
+p {
+  max-width: 65ch;
+}
