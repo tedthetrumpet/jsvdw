@@ -26,7 +26,7 @@ Duration ~80'
 
 ### Documentation
 
-A video recording of the complete performance is available at (https://archive.org/details/TheOtherOtherHand)[https://archive.org/details/TheOtherOtherHand]. Also included there is a .pdf file that documents all of the creative materials used in creating the work, and a zip file comprising the Max patches used in the performance.
+A video recording of the complete performance is available at [https://archive.org/details/TheOtherOtherHand](https://archive.org/details/TheOtherOtherHand). Also included there is a .pdf file that documents all of the creative materials used in creating the work, and a zip file comprising the Max patches used in the performance.
 
 The development of the piece was extensively documented at the time on its own blog, [workingtitle08.blogspot.com](http://workingtitle08.blogspot.com). Much of the content there is now lost, however.
 
