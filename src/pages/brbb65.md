@@ -104,9 +104,9 @@ This was one of the first charts I played when I joined the band, and not one I 
 ## The Byres Road Big Band
 
 **Director** – Paul Towndrow  
-**Saxes** – Frazer, Jane Ireland, Helen Caleb, Marian Hester, Paul Gardner, Bill  
-**Trumpets** – Danny Beggan, Henry Phillips, Douglas McArthur, Ewan R Mains*  
-**Trombones** – James Brady, J Simon van der Walt, Aaron Singh*, Michael Meyer*  
+**Saxes** – Frazer Briggs, Helen Caleb, Paul Gardner, Marian Hester, Jane Ireland, Bill Pritchard  
+**Trumpets** – Danny Beggan, Ewan R Mains*, Douglas McArthur, Henry Phillips  
+**Trombones** – James Brady, Michael Meyer*, Aaron Singh* J Simon van der Walt  
 **Guitar** – Matthew Clark  
 **Piano** – Gabriel Arbesu  
 **Bass** – David Lamont  
