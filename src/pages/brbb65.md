@@ -7,6 +7,8 @@ hide_table_of_contents: true
 
 *‘Thanks for coming to this gig! I've been playing with the band for a bit over two years now, very much enjoying the challenge of trying to play jazz on my second instrument, the trombone. My warm thanks go to the band for the enthusiasm with which they have thrown themselves into the charts that I have been bringing  in, and in particular for agreeing to play this gig as part of the celebrations around my 65th birthday. – Simon* 
 
+https://www.jsimonvanderwalt.com/brbb65
+
 ## First set
 
 ### The Opener
