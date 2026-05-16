@@ -107,7 +107,7 @@ This was one of the first charts I played when I joined the band, and not one I 
 
 **Director** – Paul Towndrow  
 **Saxes** – Frazer Briggs, Helen Caleb, Paul Gardner, Marian Hester, Jane Ireland, Bill Pritchard  
-**Trumpets** – Danny Beggan, Ewan R Mains*, Douglas McArthur, Henry Phillips  
+**Trumpets** – Danny Beggan, Matt Gough*, Douglas McArthur, Henry Phillips  
 **Trombones** – James Brady, Michael Meyer*, Aaron Singh* J Simon van der Walt  
 **Guitar** – Matthew Clark  
 **Piano** – Gabriel Arbesu  
@@ -124,7 +124,7 @@ bigband.byresroad@gmail.com
 
 ### Thanks
 
-Janet McBain, George McCallum, Mags Smith
+Janet McBain, George McCallum, Mags Smith, Ewan R Mains.
 
 
 
