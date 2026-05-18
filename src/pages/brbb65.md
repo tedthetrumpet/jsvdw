@@ -59,7 +59,7 @@ I’m aware of three classic versions of this tune: the original Duke Ellington 
 
 ### Cute
 
-The first of three tunes by Neil Hefti that we’re playing tonight, from the Basie Plays Hefti album of 1958. Like ’Teddy the Toad’, a bit different from the album version, but apparently from Hefti’s publisher. At any rate, a fun stop-time feature for our drummer Nemo closes the first set.
+The second tune by Neil Hefti that we’re playing tonight, from the Basie Plays Hefti album of 1958. Like ’Teddy the Toad’, a bit different from the album version, but apparently from Hefti’s publisher. At any rate, a fun stop-time feature for our drummer Nemo closes the first set.
 
 ## Interval
 
