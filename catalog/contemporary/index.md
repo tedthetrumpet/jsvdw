@@ -4,6 +4,9 @@ sidebar_position: 2
 
 # Contemporary
 
+- [giant flying laser scorpion with wings](/catalog/contemporary/scorpion "giant flying laser scorpion with wings") for piano and cassette recorder (score, video)
+- [constant](/catalog/contemporary/constant "constant") for viola and piano (score)
+- [headlong--->\]](/catalog/contemporary/headlong "headlong--->]") for solo violin (score)
 - [El laberinto](/catalog/contemporary/laberinto "El laberinto") for voice, bass clarinet and general MIDI (score, midi file, demo)
 - [The Black Rain](/catalog/contemporary/black "The Black Rain") for amplified string quintet with live computer processing (score)
 - [The Seventh Voyage](/catalog/contemporary/voyage "The Seventh Voyage") for piano and laptop (video)
