@@ -4,6 +4,7 @@ sidebar_position: 4
 
 # Gamelan
 
+- [Triwkrama](/catalog/gamelan/trwikrama "Triwikrama") for gamelan, slide brass, and electronic fx
 - [Ball of Sardines](/catalog/gamelan/sardines/ "Ball of Sardines") for pelog gamelan (score, midi demo)
 - [Running in the Dark](/catalog/gamelan/running/ "Running in the Dark") for pelog gamelan (score)
 - [Joko Jive](/catalog/gamelan/jokojive "Joko Jive") for pelog gamelan (score)
