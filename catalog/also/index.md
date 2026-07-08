@@ -12,3 +12,4 @@ Work that doesn't easily fit anywhere else, including collaborations, installati
 - [Thor's Magic Hammer](/catalog/also/thor "Thor’s Magic Hammer") for Clydebuilt Puppet Theatre
 - [ArtMaze 98](/catalog/also/artmaze "ArtMaze 98") Glasgow Green, 2-3/5/98; a collaboration with Sophie J. Pragnell.
 - [A Maze of Wires & Waveforms](/catalog/also/mazewire "A Maze of Wires & Waveforms") self-contained interactive electronic musical sculpture
+- [Go on, break a hammer](/catalog/also/hammer) for piano
