@@ -1,6 +1,6 @@
 ---
 title: Feather notation
-date: 2027-07-20
+date: 2026-07-20
 tags: 
   - news
 
