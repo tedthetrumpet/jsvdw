@@ -4,9 +4,6 @@ date: 2026-07-31
 tags: 
   - ideas
   - jazz
-# post shows when developing
-# but does not build
-draft: true
 
 ---
 
